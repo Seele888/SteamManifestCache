@@ -31,6 +31,7 @@
 			"library_capsule"		"en,zh-cn"
 			"library_hero"		"en"
 			"library_logo"		"en,zh-cn"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -38,7 +39,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1702577105"
+		"store_asset_mtime"		"1704723437"
 		"associations"
 		{
 			"0"
@@ -74,6 +75,7 @@
 			}
 		}
 		"steam_release_date"		"1702575296"
+		"workshop_visible"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1270580"
 		"store_tags"
@@ -149,15 +151,15 @@
 			{
 				"public"
 				{
-					"gid"		"9210271846879976035"
-					"size"		"5942142443"
-					"download"		"2891469824"
+					"gid"		"3943135772234233150"
+					"size"		"5942145179"
+					"download"		"2891470192"
 				}
 				"prerelease"
 				{
-					"gid"		"9210271846879976035"
-					"size"		"5942142443"
-					"download"		"2891469824"
+					"gid"		"3943135772234233150"
+					"size"		"5942145179"
+					"download"		"2891470192"
 				}
 			}
 			"encryptedmanifests"
@@ -176,9 +178,9 @@
 				}
 				"internal_test"
 				{
-					"gid"		"E7C93901FB92966D9FF4F188485AB63C"
-					"size"		"D339241793CA2150C3C55109D7469562"
-					"download"		"D0B49B3F18E2BAF2DAB28BEAE0732B98"
+					"gid"		"E3C94E05F7158E574F481B5A6C264762"
+					"size"		"79C01A1A4C27A1D074ADE03AD74DDDCA"
+					"download"		"0B151359B0A5A79939B4C84D017F91CB"
 				}
 				"locatesting"
 				{
@@ -217,8 +219,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13103995"
-				"timeupdated"		"1704488937"
+				"buildid"		"13120121"
+				"timeupdated"		"1704742767"
 			}
 			"beta"
 			{
@@ -234,9 +236,9 @@
 			}
 			"internal_test"
 			{
-				"buildid"		"13103995"
+				"buildid"		"13120121"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704488630"
+				"timeupdated"		"1704741706"
 			}
 			"locatesting"
 			{
@@ -252,9 +254,9 @@
 			}
 			"prerelease"
 			{
-				"buildid"		"13103995"
+				"buildid"		"13120121"
 				"description"		"Pre-release of updates for preview testing"
-				"timeupdated"		"1704489041"
+				"timeupdated"		"1704742751"
 			}
 			"previous"
 			{
