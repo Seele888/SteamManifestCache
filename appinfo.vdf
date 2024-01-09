@@ -93,6 +93,7 @@
 			}
 		}
 		"steam_release_date"		"1703243139"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/1287540/discussions/0/4034727620342157548/"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1287540"
@@ -120,13 +121,13 @@
 			"19"		"597"
 		}
 		"review_score"		"8"
-		"review_percentage"		"90"
+		"review_percentage"		"91"
 	}
 	"extended"
 	{
 		"developer"		"Bone Collectors"
 		"publisher"		"Bone Collectors"
-		"homepage"		"https://en.dinohazard.com/games"
+		"homepage"		"https://www.dinohazard.com/"
 	}
 	"config"
 	{
@@ -179,9 +180,9 @@
 			{
 				"public"
 				{
-					"gid"		"8903088319045183786"
-					"size"		"805593710"
-					"download"		"497939984"
+					"gid"		"6608565849860571419"
+					"size"		"805586100"
+					"download"		"497939184"
 				}
 			}
 		}
@@ -189,8 +190,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13113509"
-				"timeupdated"		"1704673124"
+				"buildid"		"13121603"
+				"timeupdated"		"1704756704"
 			}
 		}
 	}
