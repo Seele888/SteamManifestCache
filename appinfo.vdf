@@ -91,6 +91,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -98,7 +99,7 @@
 				"height_pct"		"50"
 			}
 		}
-		"store_asset_mtime"		"1694464115"
+		"store_asset_mtime"		"1704770421"
 		"associations"
 		{
 			"0"
@@ -166,6 +167,26 @@
 			{
 				"supported"		"true"
 			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
 		}
 		"steam_release_date"		"1694559726"
 		"community_visible_stats"		"1"
@@ -195,7 +216,7 @@
 			"19"		"4255"
 		}
 		"review_score"		"8"
-		"review_percentage"		"85"
+		"review_percentage"		"86"
 	}
 	"extended"
 	{
@@ -226,9 +247,9 @@
 			{
 				"public"
 				{
-					"gid"		"1592577589541612476"
-					"size"		"1936113226"
-					"download"		"624106880"
+					"gid"		"3890981048280794269"
+					"size"		"1755332169"
+					"download"		"533954192"
 				}
 			}
 		}
@@ -236,8 +257,8 @@
 		{
 			"public"
 			{
-				"buildid"		"13116822"
-				"timeupdated"		"1704716079"
+				"buildid"		"13126488"
+				"timeupdated"		"1704804121"
 			}
 		}
 	}
