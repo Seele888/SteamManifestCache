@@ -1,0 +1,347 @@
+"appinfo"
+{
+	"appid"		"685240"
+	"common"
+	{
+		"name"		"Paradiddle"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"576bcc24b290c05eddeeec5fee55d5a678431b83"
+		"clienttga"		"a14d2a124bf6d2ed917f9efcd3a23dfac7b9e4a3"
+		"icon"		"c609e04c2d235e313b8ce1dd85e64ec6bb1b0963"
+		"logo"		"6493d0b976074747fbf20541d7cfc9f54bde3088"
+		"logo_small"		"6493d0b976074747fbf20541d7cfc9f54bde3088_thumb"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"metacritic_name"		"Paradiddle"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"57.415303433961036"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667446708"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Emre Tanirgan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Emre Tanirgan"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1667374187"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"685240"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"1621"
+			"2"		"1752"
+			"3"		"1027"
+			"4"		"599"
+			"5"		"4711"
+			"6"		"1036"
+			"7"		"87"
+			"8"		"492"
+			"9"		"597"
+			"10"		"3810"
+			"11"		"493"
+			"12"		"4182"
+			"13"		"9204"
+			"14"		"3934"
+			"15"		"4175"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Emre Tanirgan"
+		"publisher"		"Emre Tanirgan"
+		"homepage"		"http://paradiddleapp.com"
+	}
+	"config"
+	{
+		"installdir"		"Paradiddle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Paradiddle.exe"
+				"type"		"vr"
+			}
+			"2"
+			{
+				"executable"		"Paradiddle.exe"
+				"type"		"othervr"
+			}
+			"3"
+			{
+				"executable"		"Paradiddle.exe"
+				"arguments"		"-hmd=SteamVR"
+				"description"		"Paradiddle in Forced OpenVR"
+				"type"		"vr"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"685241"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5290572649377275169"
+					"size"		"2063047901"
+					"download"		"1803455328"
+				}
+				"pre-v1"
+				{
+					"gid"		"1199194038194020389"
+					"size"		"1538281729"
+					"download"		"1401937088"
+				}
+				"prev_version"
+				{
+					"gid"		"4811626867041562717"
+					"size"		"2062078206"
+					"download"		"1803130048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alex_test"
+				{
+					"gid"		"D7ACD18D34A874E28CA02B089D482D40"
+					"size"		"2375B326BB764D3555736748122D39E6"
+					"download"		"0F1BD53F1487E9AE649B17592904FBAE"
+				}
+				"audiodebug"
+				{
+					"gid"		"97114CC089C25F19FAB40FC79B4093CE"
+					"size"		"9B459D44E4AE2DE2C335BB3C859EBB00"
+					"download"		"3F9AFA814107F99B0A11811F925D9B1C"
+				}
+				"mikid-perftest"
+				{
+					"gid"		"DD11C46012CDD506FB20E7D7E6162770"
+					"size"		"2646F00D5618513788C7FB107B1A25E5"
+					"download"		"0B034E6BA2BE3A4B4C70208738C9AD82"
+				}
+				"perftesting-devbuild"
+				{
+					"gid"		"A849B7B7FE4F7B9D9387806E9D1D6586"
+					"size"		"A0D57E26601F38560F04E11171F37080"
+					"download"		"7F8AA0DF4954A21BD575122C6BAE9C4A"
+				}
+				"perftesting-shipbuild"
+				{
+					"gid"		"4605E6E0B778E2BA33B2046C3AFCF9D2"
+					"size"		"C9A24E46580698FE08905F328249C37E"
+					"download"		"C4F916B13CA6A7565881CFD097824C55"
+				}
+				"perftesting-testbuild"
+				{
+					"gid"		"50C63E842431D68C077E1DC304DCBEA6"
+					"size"		"FF9E280FA20CF9CD0065741EE75DAF3A"
+					"download"		"C15FDEE88B4DD6F9F2260314C4A5A60E"
+				}
+				"quest_store_alpha"
+				{
+					"gid"		"FF30CBDCBA0EC97C84C7E01F544C6C6D"
+					"size"		"4C369EA9F851FC7D2A4E9614B42F849C"
+					"download"		"0F2E204CAC78BC2E0AABBF07965FFD00"
+				}
+				"quest_store_preview"
+				{
+					"gid"		"04650E8F710866F80C7CF84C24C801B8"
+					"size"		"6EFDBB8669EC888262FAEA539804EAD6"
+					"download"		"F30027C956453B4E3C3E8546219B407F"
+				}
+				"queststorepreview"
+				{
+					"gid"		"5ECAE4FB2BCAAC39C8803385E15F59F4"
+					"size"		"03A8F8B3E5B40360ADFC355D3E5B0D59"
+					"download"		"6ACD2F14D09DF087C12A981748D226B2"
+				}
+				"steamvrdebugging"
+				{
+					"gid"		"2041048440B9E58095A09B09381E209F"
+					"size"		"16C2C6FF81CF6A4587BCFFBF5B296B67"
+					"download"		"55243B3322B7A684E41DE51021B22033"
+				}
+			}
+		}
+		"workshopdepot"		"685240"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13023148"
+				"timeupdated"		"1703200998"
+			}
+			"alex_test"
+			{
+				"buildid"		"7081652"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682708908"
+			}
+			"audiodebug"
+			{
+				"buildid"		"13039437"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703413441"
+			}
+			"mikid-perftest"
+			{
+				"buildid"		"9760140"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668137868"
+			}
+			"perftesting-devbuild"
+			{
+				"buildid"		"11158726"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683235460"
+			}
+			"perftesting-shipbuild"
+			{
+				"buildid"		"11158777"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683235867"
+			}
+			"perftesting-testbuild"
+			{
+				"buildid"		"11158750"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683235694"
+			}
+			"pre-v1"
+			{
+				"buildid"		"8594234"
+				"description"		"Reverts the app back to the 2 year old version before V1. For testing purposes."
+				"timeupdated"		"1668137727"
+			}
+			"prev_version"
+			{
+				"buildid"		"12643084"
+				"description"		"Roll back to the previous version."
+				"timeupdated"		"1703201014"
+			}
+			"quest_store_alpha"
+			{
+				"buildid"		"12841685"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701366423"
+			}
+			"quest_store_preview"
+			{
+				"buildid"		"12643084"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699382844"
+			}
+			"queststorepreview"
+			{
+				"buildid"		"12643084"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699427228"
+			}
+			"steamvrdebugging"
+			{
+				"buildid"		"12910838"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702037365"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000000"
+		"maxnumfiles"		"5000"
+	}
+}
