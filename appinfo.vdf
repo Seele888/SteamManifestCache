@@ -151,6 +151,7 @@
 			"category_30"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
+			"category_61"		"1"
 		}
 		"supported_languages"
 		{
@@ -395,9 +396,9 @@
 			{
 				"public"
 				{
-					"gid"		"273220808680108409"
-					"size"		"19445764178"
-					"download"		"17817513840"
+					"gid"		"4776529490301618379"
+					"size"		"19418839890"
+					"download"		"17796651600"
 				}
 			}
 			"encryptedmanifests"
@@ -410,21 +411,21 @@
 				}
 				"dev_final_branch"
 				{
-					"gid"		"EE5F55F602C7D7449328DAB2A07B0E4F"
-					"size"		"B9AEB5DBE17EB2DE535A91141BA0429A"
-					"download"		"88ECAF12301ECEE26E7A4E0060D6CB2B"
+					"gid"		"412B980C4292F22D69B63A641AD23294"
+					"size"		"59BFB3FD141A139599E5957DB7E127A0"
+					"download"		"D636FA262A1AC42C98ABE34AE9C1D9E2"
 				}
 				"dev_final_trunk"
 				{
-					"gid"		"1B049C89EC6C9FA3172F8079237AA986"
-					"size"		"0AA8154DBE259E76BC94F7F8377BC076"
-					"download"		"D43E3E9B4536782184B6723B9920DF3A"
+					"gid"		"CFF497D54B62BA7C4C66D822469AFEDA"
+					"size"		"573B92B3087AB2150ABC2BD8D0BABDA1"
+					"download"		"ACF1A3D9B008B0085C3E1F3649E4FC20"
 				}
 				"dev_release_branch"
 				{
-					"gid"		"4CA5746134D4F9915A41B8BFB7870125"
-					"size"		"BFFA8D26E0B66823FFA2B3173FC3399B"
-					"download"		"73C6ABD70236A2F7D7D940A6A5BF133F"
+					"gid"		"7C402CA5DA20CC1ED2E448CF49709E67"
+					"size"		"773A605F64338B425353541BC3EF3E11"
+					"download"		"F7DCCBCF80FF8329B06F12EC7A3ED750"
 				}
 				"dev_release_branch_live"
 				{
@@ -440,9 +441,9 @@
 				}
 				"dev_release_trunk"
 				{
-					"gid"		"23CBB3DDB4D2F9E3F3E4BBD61167D00D"
-					"size"		"E5DBF8C83ED1A81D6A6E86BF6A8394A7"
-					"download"		"6C71409A170729B5172427707CC3CAF0"
+					"gid"		"E863D2106FA88C096136D43557EB4B80"
+					"size"		"3FFA424CB166407E3306E888271257D4"
+					"download"		"BA48F7E8E302E4D517DDF0F784834EA8"
 				}
 				"ext_dev_final"
 				{
@@ -518,9 +519,9 @@
 				}
 				"prod_final"
 				{
-					"gid"		"593BF9596AF0367C9C17734CD73DFAD9"
-					"size"		"C91FB86994883449FAAB57BA1D8D79F3"
-					"download"		"1331345709CD0442CDD370842B1F066E"
+					"gid"		"59BE8ECEF594D461373ED31A9F5400D2"
+					"size"		"6D5DB719DD35780D9B887B92B3FCADF8"
+					"download"		"3E4AF222D04A24473D29E9B73F9E5F71"
 				}
 				"review"
 				{
@@ -676,8 +677,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12884969"
-				"timeupdated"		"1702465154"
+				"buildid"		"13079277"
+				"timeupdated"		"1704801634"
 			}
 			"denuvo"
 			{
@@ -687,21 +688,21 @@
 			}
 			"dev_final_branch"
 			{
-				"buildid"		"12886032"
+				"buildid"		"13079796"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701833546"
+				"timeupdated"		"1704234532"
 			}
 			"dev_final_trunk"
 			{
-				"buildid"		"12963407"
+				"buildid"		"13117333"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702568893"
+				"timeupdated"		"1704718891"
 			}
 			"dev_release_branch"
 			{
-				"buildid"		"12882571"
+				"buildid"		"13010150"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701803659"
+				"timeupdated"		"1703075079"
 			}
 			"dev_release_branch_live"
 			{
@@ -717,9 +718,9 @@
 			}
 			"dev_release_trunk"
 			{
-				"buildid"		"12963258"
+				"buildid"		"13117575"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702568142"
+				"timeupdated"		"1704720849"
 			}
 			"ext_dev_final"
 			{
@@ -795,9 +796,9 @@
 			}
 			"prod_final"
 			{
-				"buildid"		"12884969"
+				"buildid"		"13079277"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701823747"
+				"timeupdated"		"1704228028"
 			}
 			"review"
 			{
