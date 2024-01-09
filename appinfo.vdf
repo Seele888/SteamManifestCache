@@ -235,9 +235,9 @@
 			{
 				"public"
 				{
-					"gid"		"9205329697802628919"
-					"size"		"2385955863"
-					"download"		"2186465680"
+					"gid"		"1770619590605009824"
+					"size"		"2385955351"
+					"download"		"2186465168"
 				}
 				"2018-04-12"
 				{
@@ -250,9 +250,9 @@
 			{
 				"xseed_beta"
 				{
-					"gid"		"7202475C9EBACF052E6847434FDB9B8A"
-					"size"		"89C7450DFB7D6B5A7243B6F12CC448B9"
-					"download"		"9E7E35FE7072C80A840DBF5A85FB6D10"
+					"gid"		"3C4FCBCCA73864981C47B4725BFC0EC0"
+					"size"		"B10A46A090212E36C3EDA572ED9979DE"
+					"download"		"322EFBF5C96A6BB4FF296F03E704AC11"
 				}
 			}
 		}
@@ -385,8 +385,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12910811"
-				"timeupdated"		"1702037245"
+				"buildid"		"13122302"
+				"timeupdated"		"1704763592"
 			}
 			"2018-04-12"
 			{
@@ -396,9 +396,9 @@
 			}
 			"xseed_beta"
 			{
-				"buildid"		"12910811"
+				"buildid"		"13122302"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702037257"
+				"timeupdated"		"1704763605"
 			}
 		}
 	}
