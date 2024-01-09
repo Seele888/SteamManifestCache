@@ -245,7 +245,7 @@
 			"16"		"3942"
 			"17"		"1756"
 			"18"		"1742"
-			"19"		"1693"
+			"19"		"1663"
 		}
 		"review_score"		"8"
 		"review_percentage"		"85"
@@ -308,9 +308,9 @@
 			{
 				"public"
 				{
-					"gid"		"7506113651617344189"
-					"size"		"8466039220"
-					"download"		"7754780592"
+					"gid"		"8175081351682750957"
+					"size"		"8447668695"
+					"download"		"7744223616"
 				}
 				"local"
 				{
@@ -327,11 +327,17 @@
 					"size"		"06CDEE0B08ED408EE1A69C2547D9FC4E"
 					"download"		"4108D854FF89D6BAA73F180FE499AA7F"
 				}
-				"cp_debug"
+				"bugfix2023"
 				{
-					"gid"		"229407D763FC9B2CEE2E7B2ACA28E345"
-					"size"		"A528477041FF30BA77FC98C0C1D24672"
-					"download"		"C8B5E61EEC8A5D9424B99C6730B24F23"
+					"gid"		"CEBAA47ED7EDB643972EF2A6819F269A"
+					"size"		"910B8E0AC73C535E4A385F46F0550D58"
+					"download"		"C7CAB5DD37A72285A9E1510DA3698B63"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"C7AB35B0BB218EE16FBECE23B9799A8F"
+					"size"		"900C2945D7065C8312B142CE54A7DC4E"
+					"download"		"B82105F1DB9AA0940383B7EB478916E1"
 				}
 				"dll_check"
 				{
@@ -467,7 +473,7 @@
 				{
 					"gid"		"7939895173431236633"
 					"size"		"160"
-					"download"		"0"
+					"download"		"560"
 				}
 				"local"
 				{
@@ -484,11 +490,17 @@
 					"size"		"0C9E94192A2D672FB5C38B7D6F750849"
 					"download"		"4108D854FF89D6BAA73F180FE499AA7F"
 				}
-				"cp_debug"
+				"bugfix2023"
 				{
-					"gid"		"0CD47BA481DE8EBA5B7B41BD6A0F7B5A"
-					"size"		"C8B5E61EEC8A5D9424B99C6730B24F23"
-					"download"		"C8B5E61EEC8A5D9424B99C6730B24F23"
+					"gid"		"2D1CF84F3592D4E043CBEA7431D119C9"
+					"size"		"7908A21A67CE7E3DCA514E2C943F2DBD"
+					"download"		"B131B8416101318799F7D338D881BC7D"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"7C0C54786347A3BF8BA036C134AC5841"
+					"size"		"865519B8E3FC59E725C7D6A56CAC0BE7"
+					"download"		"F2840B5B334CB46E0A65B6522262888C"
 				}
 				"dll_check"
 				{
@@ -625,7 +637,7 @@
 				{
 					"gid"		"4760639235209777784"
 					"size"		"160"
-					"download"		"0"
+					"download"		"560"
 				}
 				"local"
 				{
@@ -642,11 +654,17 @@
 					"size"		"0C9E94192A2D672FB5C38B7D6F750849"
 					"download"		"4108D854FF89D6BAA73F180FE499AA7F"
 				}
-				"cp_debug"
+				"bugfix2023"
 				{
-					"gid"		"3B5402726B3923441CF529EE66CD85BF"
-					"size"		"C8B5E61EEC8A5D9424B99C6730B24F23"
-					"download"		"C8B5E61EEC8A5D9424B99C6730B24F23"
+					"gid"		"64CAF7ABA01DC450E415C1479629FCD7"
+					"size"		"7908A21A67CE7E3DCA514E2C943F2DBD"
+					"download"		"B131B8416101318799F7D338D881BC7D"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"580B7C14CFD725809078960C17202B8E"
+					"size"		"865519B8E3FC59E725C7D6A56CAC0BE7"
+					"download"		"F2840B5B334CB46E0A65B6522262888C"
 				}
 				"dll_check"
 				{
@@ -783,7 +801,7 @@
 				{
 					"gid"		"5479223038639337994"
 					"size"		"64"
-					"download"		"0"
+					"download"		"464"
 				}
 				"local"
 				{
@@ -800,11 +818,17 @@
 					"size"		"4640EE022741C3FCAA1CBC962C8E6D65"
 					"download"		"4108D854FF89D6BAA73F180FE499AA7F"
 				}
-				"cp_debug"
+				"bugfix2023"
 				{
-					"gid"		"6EA52AC3EFBCEDA199BA5D6E8483FADF"
-					"size"		"C8B5E61EEC8A5D9424B99C6730B24F23"
-					"download"		"C8B5E61EEC8A5D9424B99C6730B24F23"
+					"gid"		"F63BB14438B06115968BC285CBA1A3DD"
+					"size"		"5D4304DD3B327F8B8A19D23553490DBD"
+					"download"		"9370DF3FBC6F80B5E99935A3F226F084"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"BECD063A0AD4631BAEF2069CAD3565E7"
+					"size"		"B80987DC61B407885756063605BFD45A"
+					"download"		"69D709936B0C8CB92E8F3A4ED0E153BE"
 				}
 				"dll_check"
 				{
@@ -941,7 +965,7 @@
 				{
 					"gid"		"4839815123188236258"
 					"size"		"64"
-					"download"		"0"
+					"download"		"464"
 				}
 				"local"
 				{
@@ -958,11 +982,17 @@
 					"size"		"4640EE022741C3FCAA1CBC962C8E6D65"
 					"download"		"4108D854FF89D6BAA73F180FE499AA7F"
 				}
-				"cp_debug"
+				"bugfix2023"
 				{
-					"gid"		"FA180B7FF3DA40508F10C4FE196B02D4"
-					"size"		"C8B5E61EEC8A5D9424B99C6730B24F23"
-					"download"		"C8B5E61EEC8A5D9424B99C6730B24F23"
+					"gid"		"C82C727A6876FCF8818F1A174DB61B2A"
+					"size"		"5D4304DD3B327F8B8A19D23553490DBD"
+					"download"		"9370DF3FBC6F80B5E99935A3F226F084"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"A8E7E756E45BB003C20043ABA779C974"
+					"size"		"B80987DC61B407885756063605BFD45A"
+					"download"		"69D709936B0C8CB92E8F3A4ED0E153BE"
 				}
 				"dll_check"
 				{
@@ -1099,7 +1129,7 @@
 				{
 					"gid"		"7721434218011741600"
 					"size"		"80"
-					"download"		"0"
+					"download"		"480"
 				}
 				"local"
 				{
@@ -1116,11 +1146,17 @@
 					"size"		"60BD35ABF7D81A30F5A28F9FAF7D40EA"
 					"download"		"4108D854FF89D6BAA73F180FE499AA7F"
 				}
-				"cp_debug"
+				"bugfix2023"
 				{
-					"gid"		"F5684FA1FC7F8BEB1B15D85DEE9346D1"
-					"size"		"C8B5E61EEC8A5D9424B99C6730B24F23"
-					"download"		"C8B5E61EEC8A5D9424B99C6730B24F23"
+					"gid"		"9BE5FE78620D74AD6378FAED0AA37D18"
+					"size"		"288157E4C546CBB54FB5DB887877AF1C"
+					"download"		"50FC0522E16A8D93B446D57B1DE0C97F"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"55F8AC104091E0D0D6C562D2782CA426"
+					"size"		"BCBE6F83C987737874CFB5DA6B7FAB63"
+					"download"		"1977B2C03FAC44BEB2ABC4C793541774"
 				}
 				"dll_check"
 				{
@@ -1257,7 +1293,7 @@
 				{
 					"gid"		"1966710954439083812"
 					"size"		"80"
-					"download"		"0"
+					"download"		"480"
 				}
 				"local"
 				{
@@ -1274,11 +1310,17 @@
 					"size"		"60BD35ABF7D81A30F5A28F9FAF7D40EA"
 					"download"		"4108D854FF89D6BAA73F180FE499AA7F"
 				}
-				"cp_debug"
+				"bugfix2023"
 				{
-					"gid"		"775ADA4B4992E828B8D1ED5EDE4B17A7"
-					"size"		"C8B5E61EEC8A5D9424B99C6730B24F23"
-					"download"		"C8B5E61EEC8A5D9424B99C6730B24F23"
+					"gid"		"F2CFC1DC6115A69E43F454417D4D4A72"
+					"size"		"288157E4C546CBB54FB5DB887877AF1C"
+					"download"		"50FC0522E16A8D93B446D57B1DE0C97F"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"A9C210BF7D7C17BDADCBF03D866758B8"
+					"size"		"BCBE6F83C987737874CFB5DA6B7FAB63"
+					"download"		"1977B2C03FAC44BEB2ABC4C793541774"
 				}
 				"dll_check"
 				{
@@ -1415,7 +1457,7 @@
 				{
 					"gid"		"6833561418450948309"
 					"size"		"80"
-					"download"		"0"
+					"download"		"480"
 				}
 				"local"
 				{
@@ -1432,11 +1474,17 @@
 					"size"		"60BD35ABF7D81A30F5A28F9FAF7D40EA"
 					"download"		"4108D854FF89D6BAA73F180FE499AA7F"
 				}
-				"cp_debug"
+				"bugfix2023"
 				{
-					"gid"		"9DF4A7900B0FFE857D0CA10CCE319FC0"
-					"size"		"C8B5E61EEC8A5D9424B99C6730B24F23"
-					"download"		"C8B5E61EEC8A5D9424B99C6730B24F23"
+					"gid"		"CBB6080A25BEAFEC7B02A5BA174027DF"
+					"size"		"288157E4C546CBB54FB5DB887877AF1C"
+					"download"		"50FC0522E16A8D93B446D57B1DE0C97F"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"2AF53A5B3A1DD0196C6C4600FCE18165"
+					"size"		"BCBE6F83C987737874CFB5DA6B7FAB63"
+					"download"		"1977B2C03FAC44BEB2ABC4C793541774"
 				}
 				"dll_check"
 				{
@@ -1569,11 +1617,23 @@
 				{
 					"gid"		"2800660586458870138"
 					"size"		"92412677"
-					"download"		"0"
+					"download"		"72203632"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"bugfix2023"
+				{
+					"gid"		"C8209556E09B804DBE1315777D674F24"
+					"size"		"59701A9C303236B0E8567FB25F451079"
+					"download"		"66500502D24C62F299E05F8F34E421BA"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"3C34E094AE36FE011DB6B19982BB5B4D"
+					"size"		"29D92B614CC371CA4EE0BD37F75A88D2"
+					"download"		"11D8E30D9A00034585398A88382D5670"
+				}
 				"nbdebug"
 				{
 					"gid"		"33A82520C5C7C1A8D62008B6E9D3C3AA"
@@ -1627,11 +1687,23 @@
 				{
 					"gid"		"5610201632971379408"
 					"size"		"103731165"
-					"download"		"0"
+					"download"		"97512512"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"bugfix2023"
+				{
+					"gid"		"361CD7220E92961B1DC12B22C6A0FE47"
+					"size"		"B88780046AD71EF643CA1721DC3AA591"
+					"download"		"229BD8B58E0B286796E32CE7C851C2F5"
+				}
+				"bugfix2023_master"
+				{
+					"gid"		"882D9543036152B77D8A480D1EFBDA78"
+					"size"		"33A34CF61E96097ED258074E12AD2809"
+					"download"		"793F44F6AFD92E049B133D6017B62AE8"
+				}
 				"nbdebug"
 				{
 					"gid"		"D5DD1AEA81000D86944208B4D613E44A"
@@ -1683,18 +1755,25 @@
 		{
 			"public"
 			{
-				"buildid"		"3644468"
-				"timeupdated"		"1553745858"
+				"buildid"		"12970899"
+				"timeupdated"		"1704763125"
 			}
 			"beta"
 			{
 				"buildid"		"46716"
 				"pwdrequired"		"1"
 			}
-			"cp_debug"
+			"bugfix2023"
 			{
-				"buildid"		"56682"
+				"buildid"		"12970695"
 				"pwdrequired"		"1"
+				"timeupdated"		"1702633663"
+			}
+			"bugfix2023_master"
+			{
+				"buildid"		"12970899"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702635090"
 			}
 			"dll_check"
 			{
