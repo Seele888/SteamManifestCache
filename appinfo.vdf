@@ -136,25 +136,25 @@
 			"1"		"1667"
 			"2"		"3839"
 			"3"		"1721"
-			"4"		"3834"
-			"5"		"1685"
-			"6"		"6730"
-			"7"		"3978"
-			"8"		"5125"
-			"9"		"3942"
+			"4"		"1685"
+			"5"		"3834"
+			"6"		"3978"
+			"7"		"3942"
+			"8"		"6730"
+			"9"		"5125"
 			"10"		"4166"
 			"11"		"16689"
 			"12"		"1673"
 			"13"		"1720"
-			"14"		"19"
-			"15"		"21"
+			"14"		"21"
+			"15"		"19"
 			"16"		"4106"
 			"17"		"1759"
-			"18"		"4175"
-			"19"		"493"
+			"18"		"493"
+			"19"		"4175"
 		}
 		"review_score"		"9"
-		"review_percentage"		"98"
+		"review_percentage"		"97"
 	}
 	"extended"
 	{
@@ -196,24 +196,30 @@
 			{
 				"public"
 				{
+					"gid"		"6898658145923649977"
+					"size"		"909226781"
+					"download"		"314098208"
+				}
+				"previous"
+				{
 					"gid"		"7637156099460715726"
 					"size"		"904320706"
 					"download"		"313138768"
 				}
-				"previous"
+				"public_beta"
 				{
-					"gid"		"8596342981027780916"
-					"size"		"885156037"
-					"download"		"307213008"
+					"gid"		"790518975871437254"
+					"size"		"908835477"
+					"download"		"314011920"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"3098ACF1479016C072AA18E77E17BB34"
-					"size"		"51C8B78A3EC91A2017D6AF4E888C4D5D"
-					"download"		"074AE37E8BDDB225C06A1CF44F2B7D89"
+					"gid"		"49B24B7B0C1530B1B2116B97F7C0F51D"
+					"size"		"E67F9FAEDBF9E3AE19B35749848EAE06"
+					"download"		"1F4207881089DB1A72C644E06826DD08"
 				}
 			}
 		}
@@ -221,20 +227,26 @@
 		{
 			"public"
 			{
-				"buildid"		"12922815"
-				"timeupdated"		"1702209853"
+				"buildid"		"13123274"
+				"timeupdated"		"1704774406"
 			}
 			"beta"
 			{
-				"buildid"		"12922815"
+				"buildid"		"13123274"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702209299"
+				"timeupdated"		"1704774108"
 			}
 			"previous"
 			{
-				"buildid"		"12681469"
+				"buildid"		"12922815"
 				"description"		"The previous version"
-				"timeupdated"		"1702147672"
+				"timeupdated"		"1704748923"
+			}
+			"public_beta"
+			{
+				"buildid"		"13110077"
+				"description"		"For testing new versions"
+				"timeupdated"		"1704597086"
 			}
 		}
 	}
