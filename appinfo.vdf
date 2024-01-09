@@ -112,8 +112,8 @@
 			"18"		"6691"
 			"19"		"12472"
 		}
-		"review_score"		"5"
-		"review_percentage"		"69"
+		"review_score"		"6"
+		"review_percentage"		"70"
 	}
 	"extended"
 	{
@@ -158,9 +158,9 @@
 			{
 				"public"
 				{
-					"gid"		"2139594287060236043"
-					"size"		"2326936193"
-					"download"		"321256352"
+					"gid"		"3952019315011084959"
+					"size"		"2326947449"
+					"download"		"321256448"
 				}
 			}
 		}
@@ -174,9 +174,9 @@
 			{
 				"public"
 				{
-					"gid"		"2931297780358208939"
-					"size"		"2380623354"
-					"download"		"334331488"
+					"gid"		"6159608207643809079"
+					"size"		"2380634611"
+					"download"		"334331744"
 				}
 			}
 		}
@@ -184,8 +184,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12976766"
-				"timeupdated"		"1702682409"
+				"buildid"		"12976828"
+				"timeupdated"		"1704781335"
 			}
 		}
 	}
