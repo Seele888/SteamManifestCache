@@ -229,18 +229,18 @@
 			{
 				"public"
 				{
-					"gid"		"444766329615014064"
-					"size"		"17701644496"
-					"download"		"17030237760"
+					"gid"		"3459097350800431489"
+					"size"		"17704027977"
+					"download"		"17032725840"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"56001C9CD6CBDE12C0997657EC417097"
-					"size"		"6125BB9724518E498482F880932808BF"
-					"download"		"972CAD3681A5A979941463CE52A4F132"
+					"gid"		"4A9839E09F65E0CA43DF442424DF52D0"
+					"size"		"54A698A43F7651CFCD1F669ABCF28AF2"
+					"download"		"8DA7895C89EF69745C4E70625C9DBE1F"
 				}
 				"horizon"
 				{
@@ -266,18 +266,18 @@
 			{
 				"public"
 				{
-					"gid"		"210479330371724763"
-					"size"		"19070101723"
-					"download"		"17436395584"
+					"gid"		"1131240127293318970"
+					"size"		"19069529867"
+					"download"		"17435370320"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"D8A8EB65EE83B31BDDF3C0CD26B7C51D"
-					"size"		"1B020AEB2132210A45633FCCEE5D7D2E"
-					"download"		"4DF8C055C3DCC6F7C26D714C04A4E53A"
+					"gid"		"3B3E8B0435C769EDC64CB07CD9663FEE"
+					"size"		"63437079984A11EADA31DBF473828D9C"
+					"download"		"1701E71CF89C25BBC91ACB84B9AF967C"
 				}
 				"horizon"
 				{
@@ -298,14 +298,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13080315"
-				"timeupdated"		"1704390844"
+				"buildid"		"13121164"
+				"timeupdated"		"1704763431"
 			}
 			"beta"
 			{
-				"buildid"		"13080315"
+				"buildid"		"13121164"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704240759"
+				"timeupdated"		"1704751912"
 			}
 			"horizon"
 			{
