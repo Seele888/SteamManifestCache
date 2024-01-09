@@ -29,6 +29,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -74,6 +75,10 @@
 		"supported_languages"
 		{
 			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
 			{
 				"supported"		"true"
 			}
@@ -166,18 +171,18 @@
 			{
 				"public"
 				{
-					"gid"		"7875527951367166437"
-					"size"		"4748566108"
-					"download"		"2242915392"
+					"gid"		"1420307331049351628"
+					"size"		"4633005360"
+					"download"		"2191338352"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"internal"
 				{
-					"gid"		"76F5B8501E5687B52C501DF5F8FA0B58"
-					"size"		"73866E2AC1774AF46AA9FF2974A6BBFD"
-					"download"		"10BCC43975853C4B10B635695684F9BC"
+					"gid"		"B733CD589D583FEFD87DA6486CE01949"
+					"size"		"D3BE2E0EA45CE259CECD20CBBBF5CEB6"
+					"download"		"9C0B303861A68765D05C5A4E6E74F080"
 				}
 			}
 		}
@@ -192,18 +197,18 @@
 			{
 				"public"
 				{
-					"gid"		"5335106676762890613"
-					"size"		"4722596193"
-					"download"		"2235030272"
+					"gid"		"3811919209980454152"
+					"size"		"4606959687"
+					"download"		"2183554384"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"internal"
 				{
-					"gid"		"0D036A0BC6E8C569C06ADECD03A79B26"
-					"size"		"1F33B5DD5D2131808AFD39C96A025E0B"
-					"download"		"79A3FE407C0F52081624D262AD950885"
+					"gid"		"929D84F766C1E0DFFDD4121C4A57EC41"
+					"size"		"D388B6B14945D7C721CF707D7608141E"
+					"download"		"600965E75B990E4382878887E16D36F8"
 				}
 			}
 		}
@@ -218,18 +223,18 @@
 			{
 				"public"
 				{
-					"gid"		"5701463222806358764"
-					"size"		"4851026796"
-					"download"		"2267392496"
+					"gid"		"4565631627592315629"
+					"size"		"4735192649"
+					"download"		"2215663760"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"internal"
 				{
-					"gid"		"5011451B2AE9BF4BA3320B5444504992"
-					"size"		"124C9D1A1C0E6A14798207307A2B3E4C"
-					"download"		"3271AA917A9A5931FCE7B725E001756F"
+					"gid"		"6604CE661D0CCCACFC09D7BD014DAB03"
+					"size"		"9BCB1FECD62CC9519286A600BD4B7B2B"
+					"download"		"839A00BA833CD3152D592B0D8C3030C5"
 				}
 			}
 		}
@@ -237,14 +242,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12979136"
-				"timeupdated"		"1703586258"
+				"buildid"		"13116377"
+				"timeupdated"		"1704794768"
 			}
 			"internal"
 			{
-				"buildid"		"12979136"
+				"buildid"		"13116377"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702719343"
+				"timeupdated"		"1704710674"
 			}
 		}
 	}
