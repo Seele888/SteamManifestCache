@@ -49,12 +49,13 @@
 				"name"		"Starfield Gaming"
 			}
 		}
-		"primary_genre"		"23"
+		"primary_genre"		"37"
 		"genres"
 		{
 			"0"		"23"
 			"1"		"3"
 			"2"		"28"
+			"3"		"37"
 		}
 		"category"
 		{
@@ -73,6 +74,7 @@
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1253880"
+		"exfgls"		"1"
 		"store_tags"
 		{
 			"0"		"492"
@@ -80,26 +82,28 @@
 			"2"		"122"
 			"3"		"3799"
 			"4"		"31579"
-			"5"		"5186"
-			"6"		"4947"
-			"7"		"1742"
-			"8"		"7208"
-			"9"		"9551"
-			"10"		"4085"
-			"11"		"1684"
-			"12"		"4182"
-			"13"		"6426"
-			"14"		"44868"
-			"15"		"1721"
-			"16"		"5716"
+			"5"		"113"
+			"6"		"5186"
+			"7"		"4947"
+			"8"		"1742"
+			"9"		"7208"
+			"10"		"9551"
+			"11"		"4085"
+			"12"		"1684"
+			"13"		"4182"
+			"14"		"6426"
+			"15"		"44868"
+			"16"		"1721"
+			"17"		"5716"
 		}
 		"review_score"		"8"
-		"review_percentage"		"93"
+		"review_percentage"		"92"
 	}
 	"extended"
 	{
 		"developer"		"Starfield Gaming"
 		"publisher"		"Starfield Gaming"
+		"isfreeapp"		"1"
 		"listofdlc"		"1775680,1775681"
 		"dlcavailableonstore"		"1"
 	}
@@ -150,24 +154,24 @@
 			{
 				"public"
 				{
-					"gid"		"7853504988598002146"
-					"size"		"1135239463"
-					"download"		"998260384"
+					"gid"		"907504404685318947"
+					"size"		"1197125685"
+					"download"		"1055927840"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beliefbeta"
 				{
-					"gid"		"3D322A10C1D5A8E871096AE3EE1D4751"
-					"size"		"F73BBE4FB8B7688404EA1B3DC0461E80"
-					"download"		"16BFF90A84DF0D094F91B203D6A7E73D"
+					"gid"		"0317CEC0643B20D44F9D6F34D3D02BA4"
+					"size"		"68BA140CD9C43E64068ACDF953545736"
+					"download"		"71C2FA7ED1364450722BC6CF2D610557"
 				}
 				"betatest"
 				{
-					"gid"		"3BD53AE03FF509E8837C35EBB8FE214B"
-					"size"		"A6CEC4463C9B1CB321E30C52CE3D65C3"
-					"download"		"CF97F48F8DB763C82FD4937F131FD736"
+					"gid"		"32B151F32CA7FE92BC2A03345F1EAA01"
+					"size"		"99C457842164EBA2C0A654DF4DFABBC2"
+					"download"		"6DF0136A4FB88E17960E14D941CB2AF1"
 				}
 			}
 		}
@@ -181,24 +185,24 @@
 			{
 				"public"
 				{
-					"gid"		"917216985014966683"
-					"size"		"1135239463"
-					"download"		"998260384"
+					"gid"		"8828060246371821835"
+					"size"		"1197125685"
+					"download"		"1055927840"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beliefbeta"
 				{
-					"gid"		"7412E33491DCA706805AFD5227A3205F"
-					"size"		"F73BBE4FB8B7688404EA1B3DC0461E80"
-					"download"		"16BFF90A84DF0D094F91B203D6A7E73D"
+					"gid"		"0A7825A3BF7F29E521806887F59158A4"
+					"size"		"68BA140CD9C43E64068ACDF953545736"
+					"download"		"71C2FA7ED1364450722BC6CF2D610557"
 				}
 				"betatest"
 				{
-					"gid"		"8DA6DCEAC5FB33483536BD3CBC839A6C"
-					"size"		"A6CEC4463C9B1CB321E30C52CE3D65C3"
-					"download"		"CF97F48F8DB763C82FD4937F131FD736"
+					"gid"		"4CC76B24E8ACEE9F5DBA592BC16994F0"
+					"size"		"99C457842164EBA2C0A654DF4DFABBC2"
+					"download"		"6DF0136A4FB88E17960E14D941CB2AF1"
 				}
 			}
 		}
@@ -212,24 +216,24 @@
 			{
 				"public"
 				{
-					"gid"		"8492455026453142940"
-					"size"		"1041309933"
-					"download"		"970649696"
+					"gid"		"1674057651886542023"
+					"size"		"1103196155"
+					"download"		"1028317152"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beliefbeta"
 				{
-					"gid"		"8591A32F67D73454D8874628C712F93F"
-					"size"		"CC4A6865139283FE9A6AE7C83133BC46"
-					"download"		"3FAE266F4801EAD3E64A449C6FCDF012"
+					"gid"		"B7F5A655345C93C1A66B7D1D336087A9"
+					"size"		"DB60C73C1A1322855242633565CA4A2D"
+					"download"		"4FC95009A7176075AC254C8EA4946E6E"
 				}
 				"betatest"
 				{
-					"gid"		"B1957B95351BEE678D6C189DD4C92443"
-					"size"		"9CB2C31864AFFE448F7DB36F0CF627AB"
-					"download"		"DB7DCD2083233107E4F530C087D728AC"
+					"gid"		"893A58424D5AA5C0E5CDC842C8A016BA"
+					"size"		"B16F69561213BCC36E9B8AC28467BA97"
+					"download"		"10A8DCC23973C25489F5D36DA820DC8B"
 				}
 			}
 		}
@@ -244,24 +248,24 @@
 			{
 				"public"
 				{
-					"gid"		"4680349791275484950"
-					"size"		"208874843"
-					"download"		"199283856"
+					"gid"		"5876551959079451752"
+					"size"		"212557466"
+					"download"		"202602240"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beliefbeta"
 				{
-					"gid"		"E446C8A598029DE4845145F53E17D207"
-					"size"		"8776F0A103278EE2B54D40E8D05266BF"
-					"download"		"FC6B5123DC3F00E29594E20B9F17A864"
+					"gid"		"1B33C73A793511A436B5B47E483A2E52"
+					"size"		"69E79DE8126B23B92752936149D402A1"
+					"download"		"EF41A318FF51A1F23DA330DA0B039679"
 				}
 				"betatest"
 				{
-					"gid"		"ABEB1665D78781E873EA469B8808B211"
-					"size"		"04D0CD9FE9430F61D2697052A2E9605E"
-					"download"		"AAC3C351D52E253CFF167906ED01800D"
+					"gid"		"7278A2D6D6723A99D74B2AF25BF9A30E"
+					"size"		"06704884D278D0FD04A9AA506CA928E9"
+					"download"		"ABC424705663DF2CFC4D600F458A7F5F"
 				}
 			}
 		}
@@ -276,24 +280,24 @@
 			{
 				"public"
 				{
-					"gid"		"5255247902812630076"
-					"size"		"208874843"
-					"download"		"199209184"
+					"gid"		"3355589798148211359"
+					"size"		"212557466"
+					"download"		"202526032"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beliefbeta"
 				{
-					"gid"		"A8898D4E708728C373D92FB65DDB4EF0"
-					"size"		"8776F0A103278EE2B54D40E8D05266BF"
-					"download"		"8C0562275B5BAF4841DBC9B4962A8069"
+					"gid"		"59418959B5F92F9D2C98C3BBF1FB5A24"
+					"size"		"69E79DE8126B23B92752936149D402A1"
+					"download"		"07BC013EF53FB48B085BF250CA14A509"
 				}
 				"betatest"
 				{
-					"gid"		"3B2E4B4A99AE9579B86331EE9331632D"
-					"size"		"04D0CD9FE9430F61D2697052A2E9605E"
-					"download"		"1530DCBFAAAD11475A35DEF068889F9E"
+					"gid"		"B9D0EB1E9EE40A0191147613ADE62127"
+					"size"		"06704884D278D0FD04A9AA506CA928E9"
+					"download"		"3F216F3997A787E8BC8F9CAD93040AD2"
 				}
 			}
 		}
@@ -301,20 +305,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12488215"
-				"timeupdated"		"1697765675"
+				"buildid"		"13122747"
+				"timeupdated"		"1704768322"
 			}
 			"beliefbeta"
 			{
-				"buildid"		"12488215"
+				"buildid"		"13122747"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697765662"
+				"timeupdated"		"1704768297"
 			}
 			"betatest"
 			{
-				"buildid"		"12488215"
+				"buildid"		"13122747"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697765669"
+				"timeupdated"		"1704768303"
 			}
 		}
 	}
