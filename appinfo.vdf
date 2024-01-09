@@ -220,9 +220,18 @@
 			{
 				"public"
 				{
-					"gid"		"2189542084376991500"
-					"size"		"177008268"
-					"download"		"57764240"
+					"gid"		"1316368710349134752"
+					"size"		"335797603"
+					"download"		"116976560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"77632C80D237C8D4F2AADFB6D7B91A80"
+					"size"		"6FDCEB990DE15E935A8AD2E6CBA6FC92"
+					"download"		"867BCF340164F6A652D455D2315B7189"
 				}
 			}
 		}
@@ -236,9 +245,18 @@
 			{
 				"public"
 				{
-					"gid"		"8124724520446590914"
-					"size"		"201462842"
-					"download"		"63426464"
+					"gid"		"6977490964588661571"
+					"size"		"429087751"
+					"download"		"137999872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"784900328134C52F758A8D80A76EB781"
+					"size"		"299583581936418F8F7AEDDBC4C38AA8"
+					"download"		"06E800376F0095CD8C964EDF6BE82D85"
 				}
 			}
 		}
@@ -253,9 +271,18 @@
 			{
 				"public"
 				{
-					"gid"		"7903512560214572816"
-					"size"		"190562383"
-					"download"		"61314992"
+					"gid"		"2034546015096901265"
+					"size"		"365739315"
+					"download"		"118071488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"39DE3FA1AADF97B80C06580EFBA44B96"
+					"size"		"739A3F81BE8D7BCF6BC7F86624263603"
+					"download"		"262041EFCE63A634BB2B419F8FBC537C"
 				}
 			}
 		}
@@ -270,9 +297,18 @@
 			{
 				"public"
 				{
-					"gid"		"3554151515917489562"
-					"size"		"190680011"
-					"download"		"61815312"
+					"gid"		"1539776739161472742"
+					"size"		"365739315"
+					"download"		"118071488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"10E91316D7DCD8B2CABE650838915A84"
+					"size"		"739A3F81BE8D7BCF6BC7F86624263603"
+					"download"		"262041EFCE63A634BB2B419F8FBC537C"
 				}
 			}
 		}
@@ -280,8 +316,14 @@
 		{
 			"public"
 			{
-				"buildid"		"3213749"
-				"timeupdated"		"1539619931"
+				"buildid"		"13116880"
+				"timeupdated"		"1704797396"
+			}
+			"internal"
+			{
+				"buildid"		"13116880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704714754"
 			}
 		}
 	}
