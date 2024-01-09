@@ -41,6 +41,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -48,7 +49,7 @@
 				"height_pct"		"50"
 			}
 		}
-		"store_asset_mtime"		"1667657692"
+		"store_asset_mtime"		"1704703374"
 		"associations"
 		{
 			"0"
@@ -146,9 +147,9 @@
 			{
 				"public"
 				{
-					"gid"		"3993630163223290154"
-					"size"		"1786821337"
-					"download"		"1642581616"
+					"gid"		"3875671596048968321"
+					"size"		"1786825804"
+					"download"		"1642586288"
 				}
 			}
 			"encryptedmanifests"
@@ -169,14 +170,14 @@
 		}
 		"500850"
 		{
-			"dlcappid"		"0"
+			"dlcappid"		"500850"
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"2198065250122522389"
-					"size"		"520381399"
-					"download"		"479470064"
+					"gid"		"5896512002979392112"
+					"size"		"520328211"
+					"download"		"479417264"
 				}
 			}
 			"encryptedmanifests"
@@ -195,24 +196,52 @@
 				}
 			}
 		}
+		"2774470"
+		{
+			"dlcappid"		"2774470"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"980895427179171403"
+					"size"		"209400613"
+					"download"		"189114320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"89F9EFE32697F7B4D55D96A22F2F3B37"
+					"size"		"5FE2013340C5FC010504043B51CDFBE1"
+					"download"		"BE51FDD56F18AD022014966C44C1DE62"
+				}
+				"private"
+				{
+					"gid"		"79B794CEA8A2ACD4C6FF9E67072DD12E"
+					"size"		"17CA239D5B5A49200798AD6324E2A7CE"
+					"download"		"CBD30E1B673F8A8E1EF5856D58FC1017"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"1220620"
-				"timeupdated"		"1468148325"
+				"buildid"		"13123589"
+				"timeupdated"		"1704779369"
 			}
 			"beta"
 			{
-				"buildid"		"2381352"
+				"buildid"		"13123589"
 				"pwdrequired"		"1"
-				"timeupdated"		"1513664687"
+				"timeupdated"		"1704778703"
 			}
 			"private"
 			{
-				"buildid"		"2381352"
+				"buildid"		"13123589"
 				"pwdrequired"		"1"
-				"timeupdated"		"1513664370"
+				"timeupdated"		"1704778686"
 			}
 		}
 	}
