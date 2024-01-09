@@ -239,9 +239,9 @@
 			{
 				"public"
 				{
-					"gid"		"3604117112682585261"
-					"size"		"4287710208"
-					"download"		"3374349616"
+					"gid"		"2398368902156470581"
+					"size"		"4260700764"
+					"download"		"3358758000"
 				}
 				"event-test"
 				{
@@ -263,24 +263,24 @@
 				}
 				"test"
 				{
-					"gid"		"6295216278118785201"
-					"size"		"4287710225"
-					"download"		"3374350800"
+					"gid"		"472405584671181096"
+					"size"		"4260700782"
+					"download"		"3358762224"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"908C29D7D9AD2F86D1C362EF5AB5AB49"
-					"size"		"200D7BBB91C82937802CC9DFEF5BE57D"
-					"download"		"E2ACC0579AFBE134987534C6787FF555"
+					"gid"		"A4D6FCEBD25BD29268B58CD97B6C7C66"
+					"size"		"74B3A03086BE1E5A60D1C701BAD2C008"
+					"download"		"60C7DFB04E27E8801E45D9B1F7B50D54"
 				}
 				"longterm-test"
 				{
-					"gid"		"21B6828FA776B513C939AD6BF40E1136"
-					"size"		"359B25D402E72E9BEFCA187B432BB12D"
-					"download"		"79279ACC6601C5B64A09448024339E12"
+					"gid"		"15AA6C00CF800AAF1CE12A87CE43352D"
+					"size"		"BCB326B2B628F44C957EA7F761256BA5"
+					"download"		"E388F0F03AEA230D6BE8AF5A28293509"
 				}
 			}
 		}
@@ -351,14 +351,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12836976"
-				"timeupdated"		"1701337110"
+				"buildid"		"13126106"
+				"timeupdated"		"1704803133"
 			}
 			"alpha"
 			{
-				"buildid"		"12836806"
+				"buildid"		"13126106"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701337121"
+				"timeupdated"		"1704801450"
 			}
 			"event-test"
 			{
@@ -374,9 +374,9 @@
 			}
 			"longterm-test"
 			{
-				"buildid"		"12836806"
+				"buildid"		"13125610"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701337260"
+				"timeupdated"		"1704799981"
 			}
 			"taiwu"
 			{
@@ -386,9 +386,9 @@
 			}
 			"test"
 			{
-				"buildid"		"12836806"
+				"buildid"		"13125610"
 				"description"		"测试分支"
-				"timeupdated"		"1701337249"
+				"timeupdated"		"1704799992"
 			}
 		}
 	}
