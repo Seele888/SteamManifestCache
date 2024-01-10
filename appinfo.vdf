@@ -239,21 +239,21 @@
 			{
 				"public"
 				{
-					"gid"		"2398368902156470581"
-					"size"		"4260700764"
-					"download"		"3358758000"
+					"gid"		"978874180636269213"
+					"size"		"4388245010"
+					"download"		"3469258912"
 				}
 				"event-test"
 				{
-					"gid"		"653198601473297435"
-					"size"		"3943805907"
-					"download"		"3109804608"
+					"gid"		"541704808482448239"
+					"size"		"4388244401"
+					"download"		"3469252992"
 				}
 				"frame-test"
 				{
-					"gid"		"7843071705702241333"
-					"size"		"3187463059"
-					"download"		"2534127296"
+					"gid"		"4371752206864958749"
+					"size"		"3931237879"
+					"download"		"3140533328"
 				}
 				"taiwu"
 				{
@@ -263,24 +263,24 @@
 				}
 				"test"
 				{
-					"gid"		"472405584671181096"
-					"size"		"4260700782"
-					"download"		"3358762224"
+					"gid"		"7314062136652693562"
+					"size"		"4388245025"
+					"download"		"3469260784"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"A4D6FCEBD25BD29268B58CD97B6C7C66"
-					"size"		"74B3A03086BE1E5A60D1C701BAD2C008"
-					"download"		"60C7DFB04E27E8801E45D9B1F7B50D54"
+					"gid"		"B0D14FA88C35FD76833A2F217E736BAC"
+					"size"		"59E4E2224824EB8A4816DB1BEF7A4569"
+					"download"		"33E6154C78A78DDC0CA140CF9DF1CF49"
 				}
 				"longterm-test"
 				{
-					"gid"		"15AA6C00CF800AAF1CE12A87CE43352D"
-					"size"		"BCB326B2B628F44C957EA7F761256BA5"
-					"download"		"E388F0F03AEA230D6BE8AF5A28293509"
+					"gid"		"5AA3D4A8EE3EC61C85A865195D549ADA"
+					"size"		"6D0F075F0E57020BDBC703841F1FA748"
+					"download"		"F6C8E7A45CCA269B09D24FF6241C19A9"
 				}
 			}
 		}
@@ -351,32 +351,32 @@
 		{
 			"public"
 			{
-				"buildid"		"13126106"
-				"timeupdated"		"1704803133"
+				"buildid"		"13134059"
+				"timeupdated"		"1704874273"
 			}
 			"alpha"
 			{
-				"buildid"		"13126106"
+				"buildid"		"13134790"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704801450"
+				"timeupdated"		"1704879071"
 			}
 			"event-test"
 			{
-				"buildid"		"12178348"
+				"buildid"		"13132873"
 				"description"		"事件编辑器分支"
-				"timeupdated"		"1694611647"
+				"timeupdated"		"1704868497"
 			}
 			"frame-test"
 			{
-				"buildid"		"11059956"
+				"buildid"		"13126954"
 				"description"		"框架测试分支"
-				"timeupdated"		"1682220678"
+				"timeupdated"		"1704811755"
 			}
 			"longterm-test"
 			{
-				"buildid"		"13125610"
+				"buildid"		"13133858"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704799981"
+				"timeupdated"		"1704874403"
 			}
 			"taiwu"
 			{
@@ -386,9 +386,9 @@
 			}
 			"test"
 			{
-				"buildid"		"13125610"
+				"buildid"		"13133858"
 				"description"		"测试分支"
-				"timeupdated"		"1704799992"
+				"timeupdated"		"1704874416"
 			}
 		}
 	}
