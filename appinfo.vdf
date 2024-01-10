@@ -95,6 +95,7 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -117,6 +118,7 @@
 			"library_capsule"		"en,zh-tw,ja,ko,zh-cn"
 			"library_hero"		"en"
 			"library_logo"		"en,zh-tw,ja,ko,zh-cn"
+			"library_header"		"en,zh-tw,ko,zh-cn,ja"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -156,6 +158,10 @@
 			"category_22"		"1"
 			"category_23"		"1"
 			"category_29"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -227,19 +233,20 @@
 			"1"		"4158"
 			"2"		"4231"
 			"3"		"4106"
-			"4"		"4667"
-			"5"		"1742"
-			"6"		"4434"
-			"7"		"12095"
-			"8"		"6915"
+			"4"		"12095"
+			"5"		"4667"
+			"6"		"1742"
+			"7"		"6915"
+			"8"		"4434"
 			"9"		"4182"
-			"10"		"4345"
-			"11"		"1719"
+			"10"		"1719"
+			"11"		"4345"
 			"12"		"1695"
 			"13"		"21"
 			"14"		"1646"
 			"15"		"1756"
 			"16"		"1638"
+			"17"		"5608"
 		}
 		"review_score"		"9"
 		"review_percentage"		"97"
@@ -359,9 +366,9 @@
 			{
 				"public"
 				{
-					"gid"		"7579217568329983947"
-					"size"		"93723682941"
-					"download"		"70533509872"
+					"gid"		"8024190432102739705"
+					"size"		"93714666077"
+					"download"		"70529300608"
 				}
 			}
 			"encryptedmanifests"
@@ -392,15 +399,15 @@
 				}
 				"f_test"
 				{
-					"gid"		"F2A454BA012153B3B642B49A2A69BA9F"
-					"size"		"FA37DBCA45E5C16E1A3ADA1BE22B5CE5"
-					"download"		"3FBFA41FBB26DE2E00B84D8BF60F8AF9"
+					"gid"		"FB0D773DF284EB2B6837699896CC8950"
+					"size"		"0C26A65B13D6FD087CF3865625D31E62"
+					"download"		"99E7A04BB9F835302111A9F072ED4859"
 				}
 				"f_test2"
 				{
-					"gid"		"8EF9AFB28A480537E3995BB3F4E72874"
-					"size"		"40D4757F0EE89144BE5076F92963F2C8"
-					"download"		"EDBEF17AC5A6EF14C5D71AE438131DFF"
+					"gid"		"456BFFDE90BD3C94D51ACF575A0B7386"
+					"size"		"3427A5F0798B68C078E3778B10E057E4"
+					"download"		"115E3D8CF27FB944BE8193A78E28A6DB"
 				}
 				"media_01"
 				{
@@ -440,15 +447,15 @@
 				}
 				"work98"
 				{
-					"gid"		"7F7F3B4F671194CCEA083971A87320AC"
-					"size"		"4A4BBB8991D14AB3E8C5970B6B630BE1"
-					"download"		"9903F5D99ECEAECE249253E20E84E099"
+					"gid"		"685FF1892A535C86CB271B25DFAB9ABB"
+					"size"		"BD2F7EDE8DD41BE8772561DF74C50606"
+					"download"		"C19742F8F4B74160D3CB50C8EF30F86D"
 				}
 				"work99"
 				{
-					"gid"		"DB3AD592CDBECD7CCAA80B6B3600451A"
-					"size"		"BDEE927B0DD76AE81AB3D530A85F6B3A"
-					"download"		"1697883192A087E88E53C50A8C8567E9"
+					"gid"		"7D4A486817DBFA1C266D3758DE56F402"
+					"size"		"E15A4774CFFD9870396F1DBD000856EF"
+					"download"		"5E6C6901AE2FD0039570927D050DC5B2"
 				}
 			}
 		}
@@ -457,8 +464,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12934982"
-				"timeupdated"		"1702609236"
+				"buildid"		"13122115"
+				"timeupdated"		"1704855886"
 			}
 			"aabbd"
 			{
@@ -486,15 +493,15 @@
 			}
 			"f_test"
 			{
-				"buildid"		"12864852"
+				"buildid"		"12995851"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701656545"
+				"timeupdated"		"1702966801"
 			}
 			"f_test2"
 			{
-				"buildid"		"12895523"
+				"buildid"		"13049459"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701936745"
+				"timeupdated"		"1703641042"
 			}
 			"media_01"
 			{
@@ -534,15 +541,15 @@
 			}
 			"work98"
 			{
-				"buildid"		"12934982"
+				"buildid"		"13122115"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702344383"
+				"timeupdated"		"1704763530"
 			}
 			"work99"
 			{
-				"buildid"		"12934427"
+				"buildid"		"13121613"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702344396"
+				"timeupdated"		"1704763566"
 			}
 		}
 	}
