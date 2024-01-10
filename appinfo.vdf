@@ -26,6 +26,7 @@
 			"french"		"1"
 			"schinese"		"1"
 			"russian"		"1"
+			"turkish"		"1"
 		}
 		"content_descriptors"
 		{
@@ -70,11 +71,6 @@
 			{
 				"type"		"publisher"
 				"name"		"Lewd Games Studio"
-			}
-			"2"
-			{
-				"type"		"franchise"
-				"name"		"Lewd Girls Leave Me Alone"
 			}
 		}
 		"primary_genre"		"4"
@@ -147,10 +143,10 @@
 			"16"		"3964"
 			"17"		"10397"
 			"18"		"9130"
-			"19"		"6650"
+			"19"		"12095"
 		}
 		"review_score"		"8"
-		"review_percentage"		"82"
+		"review_percentage"		"83"
 	}
 	"extended"
 	{
@@ -186,9 +182,9 @@
 			{
 				"public"
 				{
-					"gid"		"6575907989715107579"
-					"size"		"209045996"
-					"download"		"144236592"
+					"gid"		"8226387794547688272"
+					"size"		"209046457"
+					"download"		"144236816"
 				}
 			}
 		}
@@ -196,8 +192,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12362250"
-				"timeupdated"		"1696496625"
+				"buildid"		"13129091"
+				"timeupdated"		"1704824251"
 			}
 		}
 	}
