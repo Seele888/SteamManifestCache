@@ -164,7 +164,7 @@
 			"19"		"4166"
 		}
 		"review_score"		"6"
-		"review_percentage"		"74"
+		"review_percentage"		"73"
 	}
 	"extended"
 	{
@@ -219,15 +219,15 @@
 			{
 				"public"
 				{
-					"gid"		"643764513565790925"
-					"size"		"13715171632"
-					"download"		"13103527360"
+					"gid"		"4919931687452878001"
+					"size"		"13716102147"
+					"download"		"13104550688"
 				}
 				"beta"
 				{
-					"gid"		"2097279572090732784"
-					"size"		"13150586364"
-					"download"		"12543721840"
+					"gid"		"4919931687452878001"
+					"size"		"13716102147"
+					"download"		"13104550688"
 				}
 				"oldver"
 				{
@@ -241,14 +241,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13125603"
-				"timeupdated"		"1704797984"
+				"buildid"		"13135424"
+				"timeupdated"		"1704883073"
 			}
 			"beta"
 			{
-				"buildid"		"13101641"
+				"buildid"		"13135424"
 				"description"		"测试"
-				"timeupdated"		"1704466139"
+				"timeupdated"		"1704883083"
 			}
 			"oldver"
 			{
