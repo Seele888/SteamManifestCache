@@ -239,8 +239,8 @@
 			"0"		"1670"
 			"1"		"4004"
 			"2"		"9"
-			"3"		"1684"
-			"4"		"1741"
+			"3"		"1741"
+			"4"		"1684"
 			"5"		"21725"
 			"6"		"17305"
 			"7"		"21"
@@ -248,8 +248,8 @@
 			"9"		"1742"
 			"10"		"14139"
 			"11"		"4325"
-			"12"		"1708"
-			"13"		"4975"
+			"12"		"4975"
+			"13"		"1708"
 			"14"		"4166"
 			"15"		"7368"
 			"16"		"1775"
@@ -330,15 +330,21 @@
 			{
 				"public"
 				{
+					"gid"		"565662278411562172"
+					"size"		"1631790295"
+					"download"		"1094876480"
+				}
+				"0-90-classic-version"
+				{
 					"gid"		"11511717210012686"
 					"size"		"1600160495"
 					"download"		"1081163616"
 				}
 				"public-test-realm"
 				{
-					"gid"		"11511717210012686"
-					"size"		"1600160495"
-					"download"		"1081163616"
+					"gid"		"565662278411562172"
+					"size"		"1631790295"
+					"download"		"1094876480"
 				}
 			}
 			"encryptedmanifests"
@@ -351,15 +357,15 @@
 				}
 				"develop"
 				{
-					"gid"		"FDD33B46B6E1FFAC0EEA82B872035CCB"
-					"size"		"2F8C1091FF60497F9931D3E5D0FE4802"
-					"download"		"4EA412496E9FA44300299B27C7EA9BEF"
+					"gid"		"5AD2DDA2E98BB2045CDD070548DDBD2E"
+					"size"		"0C5B2AB3F31130BAE2EC533167364AB8"
+					"download"		"EDD17460E629ED2B756E38491B1E95DD"
 				}
 				"pre-master"
 				{
-					"gid"		"2231552993C76960B924F83B6DEA4923"
-					"size"		"08C637DB8D46363ACDE29A5719B5CFEC"
-					"download"		"0DFCC5505BDDE5B698BA5C6440353A4E"
+					"gid"		"9DF37D7A20C9B43714F9071E982F4050"
+					"size"		"4DAEF8F041FEB95AEF3E4EE33DF32406"
+					"download"		"DE413D233033D6FC804F264059BFB85B"
 				}
 				"prototype"
 				{
@@ -379,15 +385,21 @@
 			{
 				"public"
 				{
+					"gid"		"4586393301263678303"
+					"size"		"1722224651"
+					"download"		"1115247200"
+				}
+				"0-90-classic-version"
+				{
 					"gid"		"3701192168032882397"
 					"size"		"1690477961"
 					"download"		"1101434944"
 				}
 				"public-test-realm"
 				{
-					"gid"		"3701192168032882397"
-					"size"		"1690477961"
-					"download"		"1101434944"
+					"gid"		"4586393301263678303"
+					"size"		"1722224651"
+					"download"		"1115247200"
 				}
 			}
 			"encryptedmanifests"
@@ -400,15 +412,15 @@
 				}
 				"develop"
 				{
-					"gid"		"B49C920291BC3F55326E1AE750C23C08"
-					"size"		"675D573CF37BDECAE5E87E126149BA9E"
-					"download"		"03D59452D64D6CE1C16876115FA77C29"
+					"gid"		"800AF3FD7D7BBF39B73CB75EC8F743BE"
+					"size"		"861C0AEF20AC7D190AEA05375C0A1B09"
+					"download"		"FCE1827510F614A91C60DBE6330CD750"
 				}
 				"pre-master"
 				{
-					"gid"		"1E687A2DF94428B98C4A987D699D53C9"
-					"size"		"A74FB1E351C70DD8B19D999A0191D6CA"
-					"download"		"0F6538FA04DFA13D0923745E7E010CC9"
+					"gid"		"FEC0A022D7A8F0D119D2166F6280E2BE"
+					"size"		"62C023823BD6D63210C19F0E03702C33"
+					"download"		"D4E4A7B0EE3A4AD345B91132B6545D43"
 				}
 				"prototype"
 				{
@@ -426,8 +438,14 @@
 		{
 			"public"
 			{
+				"buildid"		"13135443"
+				"timeupdated"		"1704884249"
+			}
+			"0-90-classic-version"
+			{
 				"buildid"		"12912677"
-				"timeupdated"		"1702051546"
+				"description"		"Compatible with save games started in version 0.90 or earlier"
+				"timeupdated"		"1704804577"
 			}
 			"balancing"
 			{
@@ -437,15 +455,15 @@
 			}
 			"develop"
 			{
-				"buildid"		"13010767"
+				"buildid"		"13130225"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703079794"
+				"timeupdated"		"1704833972"
 			}
 			"pre-master"
 			{
-				"buildid"		"12912677"
+				"buildid"		"13135443"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702050037"
+				"timeupdated"		"1704883129"
 			}
 			"prototype"
 			{
@@ -455,9 +473,9 @@
 			}
 			"public-test-realm"
 			{
-				"buildid"		"12912677"
+				"buildid"		"13135443"
 				"description"		"Experimental branch where you can test the next version or patch before it goes live"
-				"timeupdated"		"1702051446"
+				"timeupdated"		"1704884214"
 			}
 		}
 	}
