@@ -1,0 +1,313 @@
+"appinfo"
+{
+	"appid"		"1408230"
+	"common"
+	{
+		"name"		"Walkabout Mini Golf"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"seated"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"e27f3581856763642369c5b7db5ad35cb7df196e"
+		"logo_small"		"e27f3581856763642369c5b7db5ad35cb7df196e_thumb"
+		"icon"		"dbfed26f0728c94d197371b49798699131aa386a"
+		"clienticon"		"6130900fa3b20a8c090ffc532581672b5a579bdf"
+		"clienttga"		"71b1574eef18ab50e25bb5bdff6cbd46e1f04235"
+		"openvrsupport"		"1"
+		"openvr_action_manifest_path"		"WalkaboutMiniGolf_Data/StreamingAssets/SteamVR/actions.json"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644278400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"76.51162790697674"
+				"height_pct"		"63.298503918309194"
+			}
+		}
+		"store_asset_mtime"		"1699998250"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mighty Coconut"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mighty Coconut"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1626360900"
+		"community_hub_visible"		"1"
+		"gameid"		"1408230"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"7038"
+			"2"		"22955"
+			"3"		"1775"
+			"4"		"21978"
+			"5"		"4191"
+			"6"		"3839"
+			"7"		"597"
+			"8"		"3987"
+			"9"		"4305"
+			"10"		"4094"
+			"11"		"4252"
+			"12"		"1684"
+			"13"		"1681"
+			"14"		"4835"
+			"15"		"4166"
+			"16"		"3859"
+			"17"		"30358"
+			"18"		"3968"
+			"19"		"4182"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Mighty Coconut"
+		"publisher"		"Mighty Coconut"
+		"homepage"		"https://mightycoconut.com/minigolf/"
+		"listofdlc"		"1791210,1847170,1906500,2016530,2086230,2158180,2208010,2287580,2338250,2380460,2434550,2484900,2528590,2598430,2652320"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Walkabout Mini Golf"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WalkaboutMiniGolf.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1408231"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1096080593151074381"
+					"size"		"6598990012"
+					"download"		"4998539488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"092ED4304DF31FBB023045FEBDD021F7"
+					"size"		"318C4FA587F7B918397754C5268A1914"
+					"download"		"2D96B080C6CC12593F4D763FB3EBAEE8"
+				}
+				"farbridge"
+				{
+					"gid"		"2F6F02C931F7D158826EE421D49B2CB5"
+					"size"		"D362B85099754789CDF1590840311CF1"
+					"download"		"2B721DA19AD45181CDEFB747641C78A5"
+				}
+				"liv-qa"
+				{
+					"gid"		"7FD6FFF706B147EABAEF862FB31336A7"
+					"size"		"25B83E901883F51206AB597C60764F6D"
+					"download"		"337F1B7D226A15851AC708DABD8EDE5E"
+				}
+				"open-beta"
+				{
+					"gid"		"5DF1BCDD0C783595D33A675DFE8E9F82"
+					"size"		"6F52B82CE0BDEC89455365C66EFC7F8E"
+					"download"		"B2D26A30FC1FFB8315ABE7D14967FBD8"
+				}
+				"press-review"
+				{
+					"gid"		"91281D85BF7AF03EC849C4C71F59D58D"
+					"size"		"DFC269547C6B08957866F0E3483AF5CB"
+					"download"		"9F294668CCCE2651A43ED6B82B76E5DC"
+				}
+				"private-beta"
+				{
+					"gid"		"4C6066895870BC77A2A2E583A762D154"
+					"size"		"2C152D2E604F55E0D4362EBA05AD9531"
+					"download"		"387B7B2BE78240506FCE0C683E58780A"
+				}
+				"qa-testing"
+				{
+					"gid"		"CC6052DE9D424A2A7EEDE453D03743AA"
+					"size"		"ED578E50DCBB4CDEA99012157037C635"
+					"download"		"2125237C143625A39F3351BCB8C3E0A2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12915605"
+				"timeupdated"		"1702561631"
+			}
+			"develop"
+			{
+				"buildid"		"13120508"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704745721"
+			}
+			"farbridge"
+			{
+				"buildid"		"12915605"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702563763"
+			}
+			"liv-qa"
+			{
+				"buildid"		"12915605"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702563772"
+			}
+			"open-beta"
+			{
+				"buildid"		"12915605"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702563787"
+			}
+			"press-review"
+			{
+				"buildid"		"12915605"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702563815"
+			}
+			"private-beta"
+			{
+				"buildid"		"13120508"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704843188"
+			}
+			"qa-testing"
+			{
+				"buildid"		"12915605"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702563799"
+			}
+		}
+	}
+}
