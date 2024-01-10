@@ -1,0 +1,402 @@
+"appinfo"
+{
+	"appid"		"887330"
+	"common"
+	{
+		"name"		"Glassbreakers: Champions of Moss"
+		"type"		"Game"
+		"openvr_action_manifest_path"		"Crimson/Config/SteamVRBindings/steamvr_manifest.json"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"72bef18f369e243336256d9b073d0fe304d52f8a"
+		"clienticon"		"b6a7ae012cf771c814f14382595df6df9a63afd1"
+		"clienttga"		"0dfbba6163a27ff1feacfa7a007ec97f6f951900"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"887330_eula_1"
+				"name"		"Glassbreakers: Champions of Moss EULA"
+				"url"		"https://store.steampowered.com//eula/887330_eula_1"
+				"version"		"2"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1699056000"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"66.01830663615556"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1697068201"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Polyarc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Polyarc"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Glassbreakers"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Moss"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1697225760"
+		"community_hub_visible"		"1"
+		"gameid"		"887330"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1718"
+			"2"		"1676"
+			"3"		"3813"
+			"4"		"3839"
+			"5"		"1684"
+			"6"		"1775"
+			"7"		"4835"
+			"8"		"4747"
+			"9"		"1717"
+			"10"		"17389"
+			"11"		"493"
+			"12"		"3859"
+			"13"		"3934"
+			"14"		"21978"
+			"15"		"4057"
+			"16"		"1708"
+			"17"		"113"
+			"18"		"16250"
+			"19"		"19"
+		}
+		"review_score"		"7"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Polyarc"
+		"publisher"		"Polyarc"
+		"homepage"		"https://www.glassbreakersgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Glassbreakers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Crimson.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"887331"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3599245646477565743"
+					"size"		"8659238495"
+					"download"		"3714011440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"live_dev"
+				{
+					"gid"		"1E9704491C281464A4C268FD62BB57D5"
+					"size"		"DF057E5CCA856C0349741BAB62045081"
+					"download"		"75DDB0F48A2F63CCE03483D48D9FF38B"
+				}
+				"live_shipping"
+				{
+					"gid"		"3CCDA8A27709B8EAE486C14F3D998163"
+					"size"		"AC6666C3DD156F7AF51B9AD78E157AAE"
+					"download"		"BCE71A965938DBD627839A162D6CA2CE"
+				}
+				"live_test"
+				{
+					"gid"		"80BFA8BD94ACEFEFDB7D0EC03ECBFB2E"
+					"size"		"877990570B737949A3968A2796ECA0B5"
+					"download"		"03B85E9F4CD8B6C761FB984CACFBECCC"
+				}
+				"main_dev"
+				{
+					"gid"		"DF9E3B7E6C34660D89484A6505B91272"
+					"size"		"6C0C6C58184355E26373489C75135C08"
+					"download"		"2EB158EC68A53F70FDF7EF9E408EFDF2"
+				}
+				"main_shipping"
+				{
+					"gid"		"CF4A9491187EC02B467C20B65C641739"
+					"size"		"D3290C04E8AB18FD0C761A251FD09DDD"
+					"download"		"23D02F8F459A91A96D2973405F77C866"
+				}
+				"main_test"
+				{
+					"gid"		"FE726D6C8A198A342B1274BD0EF7B5E9"
+					"size"		"6BC193AC087630A94B7832D3663F13E1"
+					"download"		"8B4A274855DFCFB01FABF804F455B1FC"
+				}
+				"patch"
+				{
+					"gid"		"5DFA522D46B2E0E1B205738295E8A1FF"
+					"size"		"00671A0DAF37A08EA4333EF01EE3FA77"
+					"download"		"8E06DD6C3AFD88203DAF819B9EFC949A"
+				}
+				"patch_shipping"
+				{
+					"gid"		"6B763FF82C8083A209CBD8890752D8F9"
+					"size"		"1BB4C94D79AF0AB27D10A5B8DDDB0D4C"
+					"download"		"4B0F20DDF69052BA767DE70FB65E17CC"
+				}
+				"patch_test"
+				{
+					"gid"		"BD680C7391A5262920AD0EEB15BC6DB9"
+					"size"		"145C208EB8E8A8FA07B8D1CD044E73F0"
+					"download"		"1FB3A78F9123983A3B664AE7B24CDF1D"
+				}
+				"sandbox_dev"
+				{
+					"gid"		"96764C9F562F66DB024DCFBB4CA6C5CA"
+					"size"		"FBC7C58E3A82B0B1937FF51EB4D316C3"
+					"download"		"1AEF6F52E9114773018C961CE22C6A47"
+				}
+				"sandbox_shipping"
+				{
+					"gid"		"6327DB49A2F939283FC7558A5D355CC8"
+					"size"		"7FDF712BEA089D1C97814246FA182C09"
+					"download"		"236CA003D433103A715F7ADA8CBA425C"
+				}
+				"sandbox_test"
+				{
+					"gid"		"5AD062DE193E8857C5D20C3887FE27D9"
+					"size"		"6D71BAEA9AD5B77A26883BC80BD632F6"
+					"download"		"0AA22C76C1E906CB0448C5B1343C5780"
+				}
+				"staging_dev"
+				{
+					"gid"		"A44E97401CA33B10EF0D525876224B55"
+					"size"		"AE67F5C4E2DF75AAB192D3391D7BB9A8"
+					"download"		"0B5772FB12A1D83BF392F85ED6596CD5"
+				}
+				"staging_shipping"
+				{
+					"gid"		"D71DE438BC80DDD74BB8B485FBEC25D3"
+					"size"		"9DE6B2BE563F939B923CDD469D2B0BBC"
+					"download"		"B40D290F9238440E4074A3B55EB1342C"
+				}
+				"staging_test"
+				{
+					"gid"		"629B2F759A17D1E8C87D42549911F49A"
+					"size"		"FF54BC45D0CC3C10466DC4BCCC6B54D7"
+					"download"		"3FD628B052844C230EC3F706AAB1F44A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13121894"
+				"timeupdated"		"1704821835"
+			}
+			"live_dev"
+			{
+				"buildid"		"13121438"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704754953"
+			}
+			"live_shipping"
+			{
+				"buildid"		"13121894"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704759672"
+			}
+			"live_test"
+			{
+				"buildid"		"13121682"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704757280"
+			}
+			"main_dev"
+			{
+				"buildid"		"13133854"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704870634"
+			}
+			"main_shipping"
+			{
+				"buildid"		"12550432"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698389553"
+			}
+			"main_test"
+			{
+				"buildid"		"13134157"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704874175"
+			}
+			"patch"
+			{
+				"buildid"		"13133474"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704866333"
+			}
+			"patch_shipping"
+			{
+				"buildid"		"13133682"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704869075"
+			}
+			"patch_test"
+			{
+				"buildid"		"13133488"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704866588"
+			}
+			"sandbox_dev"
+			{
+				"buildid"		"12764875"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700603557"
+			}
+			"sandbox_shipping"
+			{
+				"buildid"		"13133766"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704869904"
+			}
+			"sandbox_test"
+			{
+				"buildid"		"13133894"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704871271"
+			}
+			"staging_dev"
+			{
+				"buildid"		"12693780"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699916185"
+			}
+			"staging_shipping"
+			{
+				"buildid"		"13133305"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704864260"
+			}
+			"staging_test"
+			{
+				"buildid"		"13133322"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704864429"
+			}
+		}
+	}
+}
