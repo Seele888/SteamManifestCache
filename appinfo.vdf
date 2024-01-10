@@ -230,11 +230,11 @@
 			"5"		"4106"
 			"6"		"3871"
 			"7"		"4305"
-			"8"		"4562"
-			"9"		"1734"
-			"10"		"4182"
-			"11"		"4166"
-			"12"		"1756"
+			"8"		"1734"
+			"9"		"4182"
+			"10"		"4562"
+			"11"		"1756"
+			"12"		"4166"
 			"13"		"3859"
 			"14"		"7368"
 			"15"		"4840"
@@ -321,9 +321,9 @@
 			{
 				"public"
 				{
-					"gid"		"741710218420996870"
-					"size"		"12471753218"
-					"download"		"10146076720"
+					"gid"		"7740909033054386481"
+					"size"		"12473656453"
+					"download"		"10149233968"
 				}
 			}
 			"encryptedmanifests"
@@ -342,15 +342,15 @@
 				}
 				"3rd_patch_rom"
 				{
-					"gid"		"62478E8AE9BB3B8BE61827FF8A5BDC76"
-					"size"		"B8146877C8A53C382D34531302708435"
-					"download"		"2A9106CF5B9D4EA00763C46415763665"
+					"gid"		"36A4B07D60001E48D5E68105BC04B6E5"
+					"size"		"E46FCAA828668429104E75205098D5C4"
+					"download"		"552326267CA68452927EB9615C765BC9"
 				}
 				"3rd_patch_rom_reldbg"
 				{
-					"gid"		"9C58E6DFBDEE260ED49679A73FF5D0A2"
-					"size"		"F0149FF7B090F189C0E649D0A5FE5019"
-					"download"		"B016ABD77D3F37C74010E1379BB41831"
+					"gid"		"718F5C639CF02C59EFC827D9ED88BAD4"
+					"size"		"B5BE7F5754150CC0BD7E96B562643A40"
+					"download"		"DBF273901826070E809AB37ECA3F631C"
 				}
 				"beta"
 				{
@@ -436,8 +436,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12835760"
-				"timeupdated"		"1702339195"
+				"buildid"		"12968744"
+				"timeupdated"		"1704844951"
 			}
 			"2nd_patch_rom"
 			{
@@ -453,15 +453,15 @@
 			}
 			"3rd_patch_rom"
 			{
-				"buildid"		"12897819"
+				"buildid"		"12968744"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701933354"
+				"timeupdated"		"1702861232"
 			}
 			"3rd_patch_rom_reldbg"
 			{
-				"buildid"		"12897841"
+				"buildid"		"12968760"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701933436"
+				"timeupdated"		"1702861251"
 			}
 			"beta"
 			{
