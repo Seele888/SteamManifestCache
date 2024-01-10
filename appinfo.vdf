@@ -78,7 +78,7 @@
 				"height_pct"		"66.9230772210296"
 			}
 		}
-		"store_asset_mtime"		"1679645514"
+		"store_asset_mtime"		"1703129716"
 		"associations"
 		{
 			"0"
@@ -123,9 +123,9 @@
 		"gameid"		"1062520"
 		"store_tags"
 		{
-			"0"		"3843"
-			"1"		"10235"
-			"2"		"87918"
+			"0"		"87918"
+			"1"		"3843"
+			"2"		"10235"
 			"3"		"21"
 			"4"		"1685"
 			"5"		"1100689"
@@ -177,9 +177,9 @@
 			{
 				"public"
 				{
-					"gid"		"4764078572390383750"
-					"size"		"2475743431"
-					"download"		"639830112"
+					"gid"		"1089135772781576713"
+					"size"		"2475624901"
+					"download"		"639800000"
 				}
 			}
 			"encryptedmanifests"
@@ -196,8 +196,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12835473"
-				"timeupdated"		"1701383155"
+				"buildid"		"13130141"
+				"timeupdated"		"1704833131"
 			}
 			"internalmultiplayer"
 			{
