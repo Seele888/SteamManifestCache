@@ -67,6 +67,7 @@
 			}
 		}
 		"metacritic_name"		"Planes, Bullets and Vodka"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -81,14 +82,15 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
-				"width_pct"		"50"
-				"height_pct"		"50"
+				"width_pct"		"39.03150525087516"
+				"height_pct"		"95.59487057706008"
 			}
 		}
-		"store_asset_mtime"		"1667226385"
+		"store_asset_mtime"		"1704291989"
 		"associations"
 		{
 			"0"
@@ -107,7 +109,7 @@
 				"name"		"NukGames"
 			}
 		}
-		"primary_genre"		"23"
+		"primary_genre"		"4"
 		"genres"
 		{
 			"0"		"1"
@@ -121,28 +123,135 @@
 			"category_28"		"1"
 			"category_29"		"1"
 			"category_23"		"1"
+			"category_25"		"1"
 		}
 		"supported_languages"
 		{
 			"english"
 			{
 				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
 			}
 			"brazilian"
 			{
 				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
 			}
 			"german"
 			{
 				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
 			}
 			"russian"
 			{
 				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
 			}
 			"schinese"
 			{
 				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"persian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
 			}
 		}
 		"steam_release_date"		"1481652138"
@@ -152,34 +261,34 @@
 		"store_tags"
 		{
 			"0"		"597"
-			"1"		"492"
-			"2"		"19"
-			"3"		"4255"
-			"4"		"4004"
-			"5"		"4885"
-			"6"		"1773"
-			"7"		"1774"
-			"8"		"3871"
-			"9"		"4182"
-			"10"		"3964"
-			"11"		"1756"
-			"12"		"1678"
-			"13"		"4711"
-			"14"		"4791"
-			"15"		"5154"
-			"16"		"5363"
-			"17"		"7481"
-			"18"		"1621"
-			"19"		"1649"
+			"1"		"19"
+			"2"		"4255"
+			"3"		"4004"
+			"4"		"4885"
+			"5"		"1773"
+			"6"		"1774"
+			"7"		"3871"
+			"8"		"4182"
+			"9"		"3964"
+			"10"		"4791"
+			"11"		"5363"
+			"12"		"7481"
+			"13"		"1734"
+			"14"		"5154"
+			"15"		"4026"
+			"16"		"4305"
+			"17"		"4252"
+			"18"		"7948"
+			"19"		"7743"
 		}
 		"review_score"		"8"
-		"review_percentage"		"85"
+		"review_percentage"		"84"
 	}
 	"extended"
 	{
 		"developer"		"NukGames"
 		"publisher"		"NukGames"
-		"homepage"		"http://nukgames.com/planesbulletsandvodka/"
+		"homepage"		"https://nukgames.com/"
 		"listofdlc"		"577020"
 		"dlcavailableonstore"		"1"
 	}
@@ -211,18 +320,18 @@
 			{
 				"public"
 				{
-					"gid"		"3499664530873814994"
-					"size"		"116775387"
-					"download"		"109286080"
+					"gid"		"66122507231847722"
+					"size"		"116789799"
+					"download"		"109315920"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"development_branch"
 				{
-					"gid"		"A8FB3924C4C414D69CD92670BAD629B8"
-					"size"		"B0125E1F65FD20669F995182FBE99290"
-					"download"		"F6A0C4F0FE1C4351EB19082D96BD044B"
+					"gid"		"AE55FE76D6771780650E4283753E6C22"
+					"size"		"49B41225B809B90BAE64E712DC570966"
+					"download"		"C8123538C8D7BA4EAF7DE1CC230A7C24"
 				}
 			}
 		}
@@ -252,14 +361,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13079431"
-				"timeupdated"		"1704230590"
+				"buildid"		"13127504"
+				"timeupdated"		"1704811879"
 			}
 			"development_branch"
 			{
-				"buildid"		"13079431"
+				"buildid"		"13127504"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704229936"
+				"timeupdated"		"1704811959"
 			}
 		}
 	}
