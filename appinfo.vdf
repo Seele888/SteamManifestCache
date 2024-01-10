@@ -1,0 +1,272 @@
+"appinfo"
+{
+	"appid"		"1374580"
+	"common"
+	{
+		"name"		"Dirge"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"036e6f7674c38bed64af876bdaefa2b650509b31"
+		"logo"		"c0b0dbdd04256c358eba1ea94b73a77cb5cc5595"
+		"logo_small"		"c0b0dbdd04256c358eba1ea94b73a77cb5cc5595_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"f3c476c2a19d6113964549911f2a37cdc0a2345c"
+		"clienttga"		"1f71ff47bf2565dfefa2d27ecc50f4b11bbf73e4"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"dutch"		"1"
+			"finnish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"39.82836286667933"
+				"height_pct"		"83.28188078841131"
+			}
+		}
+		"store_asset_mtime"		"1699537009"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NonNobis Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NonNobis Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_48"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1635245425"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1374580"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"6052"
+			"2"		"3843"
+			"3"		"4345"
+			"4"		"9541"
+			"5"		"3859"
+			"6"		"493"
+			"7"		"1721"
+			"8"		"1775"
+			"9"		"6730"
+			"10"		"4175"
+			"11"		"4106"
+			"12"		"19"
+			"13"		"4342"
+			"14"		"3978"
+			"15"		"10808"
+			"16"		"1685"
+			"17"		"3839"
+			"18"		"1697"
+			"19"		"3814"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"NonNobis Games"
+		"publisher"		"NonNobis Games"
+		"homepage"		"http://non-nobis-games.com/games"
+	}
+	"config"
+	{
+		"installdir"		"Dirge"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DirgeCPlus.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1374581"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"48854762056917874"
+					"size"		"10808116967"
+					"download"		"10380274896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"B5CC02AF28BF6B1E0DBF06B7356675D5"
+					"size"		"5B16C69FDB06BCBA8340EAEB4D6F17E4"
+					"download"		"8D481C1F4DB3601E5C25F104C415F885"
+				}
+				"staging"
+				{
+					"gid"		"BE87A0FA6CB613CE0A8C42965DEC0CA3"
+					"size"		"ABA4D2B38ECC44827304DEA8D485077F"
+					"download"		"45F8FA6C1C91B6CCB506AB72C7367A75"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13069531"
+				"timeupdated"		"1704030724"
+			}
+			"development"
+			{
+				"buildid"		"13124053"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704785175"
+			}
+			"staging"
+			{
+				"buildid"		"13074481"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704160761"
+			}
+		}
+	}
+}
