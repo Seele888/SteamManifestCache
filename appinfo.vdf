@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"2483250"
+	"common"
+	{
+		"name"		"Where the Music Dies"
+		"type"		"Game"
+		"icon"		"caaa544bd8a871dc08b0415d43b43c21a5bd1a1f"
+		"clienticon"		"0b8fa60dfda84672f64b6ffee4228ab9eaf6a399"
+		"clienttga"		"c477810973d3727397f365495d110fb6b867a77a"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"52.567094515752615"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1699526343"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Red Skald"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Red Skald"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1706688000"
+		"community_hub_visible"		"1"
+		"gameid"		"2483250"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"9551"
+			"2"		"3799"
+			"3"		"4486"
+			"4"		"4085"
+			"5"		"6815"
+			"6"		"4195"
+			"7"		"3871"
+			"8"		"31275"
+			"9"		"4166"
+			"10"		"5984"
+			"11"		"5608"
+			"12"		"6426"
+			"13"		"5673"
+			"14"		"6971"
+			"15"		"4342"
+			"16"		"5186"
+			"17"		"4947"
+			"18"		"5094"
+			"19"		"1742"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Red Skald"
+		"publisher"		"Red Skald"
+		"isfreeapp"		"1"
+		"listofdlc"		"2681400"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Where the Music Dies"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wherethemusicdies.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"2483251"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6409278835862706459"
+					"size"		"556953138"
+					"download"		"427858960"
+				}
+			}
+		}
+		"2681400"
+		{
+			"dlcappid"		"2681400"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8127696872720568872"
+					"size"		"632653959"
+					"download"		"495282464"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13103091"
+				"timeupdated"		"1704479180"
+			}
+		}
+	}
+}
