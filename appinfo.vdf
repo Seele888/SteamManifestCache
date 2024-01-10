@@ -233,7 +233,7 @@
 			"19"		"6426"
 		}
 		"review_score"		"8"
-		"review_percentage"		"82"
+		"review_percentage"		"81"
 	}
 	"extended"
 	{
@@ -267,24 +267,30 @@
 			{
 				"public"
 				{
-					"gid"		"5216970205976163628"
-					"size"		"14658941203"
-					"download"		"6916638992"
+					"gid"		"6542913283129182451"
+					"size"		"14663646322"
+					"download"		"6918912240"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"development"
 				{
-					"gid"		"88057368962AD07F04AF853FC50C65CE"
-					"size"		"DF6018B4D64CF137D74D877D3DA5D794"
-					"download"		"94E8764B424AAC60A264732E9D0A23B4"
+					"gid"		"B68AD4A31E2FD3A93D584D818B9744BE"
+					"size"		"D0D1BBE04FCCABF929A7664DF0A39743"
+					"download"		"53297169DB0A381EFB45B29811664897"
 				}
 				"development2"
 				{
 					"gid"		"EE924CE3D4C94A8AC380B706521E8E08"
 					"size"		"71683441966EF84B64527A0282CE5E12"
 					"download"		"7C6761BDA1151E9785783ED2263DB977"
+				}
+				"education"
+				{
+					"gid"		"F72E2F8D07F218BA6BF36249E40990D5"
+					"size"		"7E6518CF8B36BE7246116A6739720328"
+					"download"		"E82A8A876384063BE15FC8B89711C449"
 				}
 				"internal"
 				{
@@ -307,9 +313,9 @@
 			{
 				"public"
 				{
-					"gid"		"6354259946924642681"
-					"size"		"1185493311"
-					"download"		"1034603280"
+					"gid"		"6944148590576550617"
+					"size"		"1182467664"
+					"download"		"1032329552"
 				}
 			}
 			"encryptedmanifests"
@@ -325,6 +331,12 @@
 					"gid"		"D310E4138DAD6578A1A18D8B14D449B1"
 					"size"		"6D50F7A66C7BBAAC6F74032338F0BB4A"
 					"download"		"EFDD238D3D3F905E62B167C02B617934"
+				}
+				"education"
+				{
+					"gid"		"37CD90A696AA23DDCE00DF4440F0FF93"
+					"size"		"EA29E318A291A7079BFE81DA8D796F14"
+					"download"		"1DCDF8C92905C6C73B8A3604E81419E3"
 				}
 				"internal"
 				{
@@ -344,20 +356,26 @@
 		{
 			"public"
 			{
-				"buildid"		"11468931"
-				"timeupdated"		"1686848216"
+				"buildid"		"13101022"
+				"timeupdated"		"1704810257"
 			}
 			"development"
 			{
-				"buildid"		"11560307"
+				"buildid"		"13101022"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687787149"
+				"timeupdated"		"1704460780"
 			}
 			"development2"
 			{
 				"buildid"		"10925116"
 				"pwdrequired"		"1"
 				"timeupdated"		"1680593175"
+			}
+			"education"
+			{
+				"buildid"		"12482372"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697717897"
 			}
 			"internal"
 			{
