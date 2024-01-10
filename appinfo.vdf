@@ -6,9 +6,9 @@
 		"name"		"Cosplay Collection"
 		"type"		"Game"
 		"releasestate"		"released"
-		"oslist"		"windows"
+		"oslist"		"windows,macos"
 		"osarch"		"64"
-		"osextended"		""
+		"osextended"		"macosapplesilicon"
 		"icon"		"4e0afd0b950d57cb8394ef06f0107e30b9d2551e"
 		"clienticon"		"7bbb9f8bd1f16142e40c034e24c397b0011a5c20"
 		"clienttga"		"84d0fa65d45194c3e7fb17c2abbfa4bea9f03bc5"
@@ -149,7 +149,7 @@
 			"10"		"4747"
 		}
 		"review_score"		"6"
-		"review_percentage"		"71"
+		"review_percentage"		"72"
 	}
 	"extended"
 	{
@@ -171,10 +171,19 @@
 					"osarch"		"64"
 				}
 			}
+			"1"
+			{
+				"executable"		"Cosplay_Collection_Mac.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
 		}
 	}
 	"depots"
 	{
+		"hasdepotsindlc"		"0"
 		"2149071"
 		{
 			"config"
@@ -193,12 +202,29 @@
 				}
 			}
 		}
+		"2149072"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7591768964222913"
+					"size"		"4424581665"
+					"download"		"1921978784"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"13112980"
-				"timeupdated"		"1704664937"
+				"buildid"		"13135142"
+				"timeupdated"		"1704881266"
 			}
 		}
 	}
