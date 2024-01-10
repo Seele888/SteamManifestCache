@@ -219,15 +219,15 @@
 			{
 				"public"
 				{
-					"gid"		"4919931687452878001"
-					"size"		"13716102147"
-					"download"		"13104550688"
+					"gid"		"3200530437901714065"
+					"size"		"13722788650"
+					"download"		"13110196448"
 				}
 				"beta"
 				{
-					"gid"		"4919931687452878001"
-					"size"		"13716102147"
-					"download"		"13104550688"
+					"gid"		"3200530437901714065"
+					"size"		"13722788650"
+					"download"		"13110196448"
 				}
 				"oldver"
 				{
@@ -241,14 +241,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13135424"
-				"timeupdated"		"1704883073"
+				"buildid"		"13136069"
+				"timeupdated"		"1704887836"
 			}
 			"beta"
 			{
-				"buildid"		"13135424"
+				"buildid"		"13136069"
 				"description"		"测试"
-				"timeupdated"		"1704883083"
+				"timeupdated"		"1704887846"
 			}
 			"oldver"
 			{
