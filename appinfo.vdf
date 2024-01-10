@@ -167,7 +167,7 @@
 			}
 		}
 		"steam_release_date"		"1695228823"
-		"metacritic_score"		"81"
+		"metacritic_score"		"80"
 		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/moonstone-island?ftag=MCD-06-10aaa1f"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
@@ -253,24 +253,24 @@
 			{
 				"public"
 				{
-					"gid"		"5578678568750830771"
-					"size"		"415637002"
-					"download"		"235194192"
+					"gid"		"5476759211337295093"
+					"size"		"415653480"
+					"download"		"234993408"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"F5B3E736B4E58F25D5FCC19D188C2C05"
-					"size"		"DD870DB77772E54CAB5683A522EE02AE"
-					"download"		"284CDB91774B6114974E431EBC9845E9"
+					"gid"		"2FD42E4209D6A3C746F45099F8377118"
+					"size"		"F0F1CFB80A2D2113A50278E51BE7AA0F"
+					"download"		"B8BDAF8A7CF74AD2807A7E0384370FEB"
 				}
 				"development"
 				{
-					"gid"		"89BDA039CE712AD216B8D4F067BCF6D1"
-					"size"		"FF277BB27F8F948CCB66253DFE7684EC"
-					"download"		"FBE42A6C4640595EE659ACC247D80FA1"
+					"gid"		"1B6AF7DBDC2D0F0CD064601B0B6F57D5"
+					"size"		"036CDDDFB346032AEC34C9464F38CD34"
+					"download"		"EC980FB63812ED1896DDA961CDEF4B0D"
 				}
 				"partners"
 				{
@@ -297,24 +297,24 @@
 			{
 				"public"
 				{
-					"gid"		"7950374527822905788"
-					"size"		"476075162"
-					"download"		"243403744"
+					"gid"		"9134049535444086255"
+					"size"		"476091644"
+					"download"		"243429568"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"02BE9518281E71958CE17DD96C782719"
-					"size"		"69B737B3899A6E232270EA2AE1020D7C"
-					"download"		"710CDF4FE936BA45F095175A50F627D8"
+					"gid"		"FB6EEEF40247A829B7C6EA293BA51612"
+					"size"		"D7A333892189332DE87881A64ED52A75"
+					"download"		"ACA0F4444B99810846826B8FD66C4E0A"
 				}
 				"development"
 				{
-					"gid"		"FE8B7C0812DF868341E9CA226D4CD080"
-					"size"		"8FF7A65733432A679D7078E341C6767A"
-					"download"		"254BDD0FDAD343621EAEF3F06A14508E"
+					"gid"		"67496B02B38FD451C4EE41875B790527"
+					"size"		"9F0F84561D14DBE8531D9FF1AFFF9D1C"
+					"download"		"69268BDD6B41270894E685C676A508D6"
 				}
 				"partners"
 				{
@@ -340,24 +340,24 @@
 			{
 				"public"
 				{
-					"gid"		"106483252330876628"
-					"size"		"533210594"
-					"download"		"246827424"
+					"gid"		"822986730903632704"
+					"size"		"533227071"
+					"download"		"246853360"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"D4FEFA9579F2503D68B0872522019E60"
-					"size"		"F059C83D1C1CDF53EB314D0E0280BCBB"
-					"download"		"623EE0243A8E30DA3FA4C8A85259B3CE"
+					"gid"		"465CAC29D7A1D8A3BE584B3D64AA1BD0"
+					"size"		"147D7FFAD8D3133BD86F1D7037D2223E"
+					"download"		"414A2FBCA44952D9ED01BC62260D4871"
 				}
 				"development"
 				{
-					"gid"		"A4496251ACB09E252F8C72F347719016"
-					"size"		"8004C2BE28B4EA8C5A9FA6179CD089F4"
-					"download"		"BF9359F0996015C812F9CA0025AE40E6"
+					"gid"		"0DC73302B6A6B2CABF59A1FE1C2FA8CE"
+					"size"		"D7C2BDF05536A03BECF3972457979195"
+					"download"		"41984A9E8E371965DFD334A243D7B216"
 				}
 				"partners"
 				{
@@ -389,9 +389,9 @@
 			{
 				"beta"
 				{
-					"gid"		"9314B65E915E69F3464DB61BF841FC82"
-					"size"		"9282A23C29E4EDF3A8F258B5A6D9DE27"
-					"download"		"42433986F93ECC078D980B4AC4058756"
+					"gid"		"B6A57ED265180B5EE9CFA332D221E8D9"
+					"size"		"4EF7F49AC851D7BDE631E735880C6AEF"
+					"download"		"CBE2A68ABEA6CE9E8AF0F0E05F23236C"
 				}
 				"development"
 				{
@@ -421,9 +421,9 @@
 			{
 				"beta"
 				{
-					"gid"		"8B696067D90DB37ECED0CD781EDA03A6"
-					"size"		"5AC12E6FE0A3C0FCE56282DC818F6765"
-					"download"		"11F7BE7F5DFBF5E9CA43C99BACE39A11"
+					"gid"		"B49385F851233A4FC174C22FBF327EDE"
+					"size"		"63DA08B669CA365E9671ED971B20D602"
+					"download"		"11722F2D9D35A42E1324190DD24D199E"
 				}
 				"development"
 				{
@@ -437,20 +437,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12991069"
-				"timeupdated"		"1702918812"
+				"buildid"		"13130886"
+				"timeupdated"		"1704840384"
 			}
 			"beta"
 			{
-				"buildid"		"12991069"
+				"buildid"		"13130886"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702915307"
+				"timeupdated"		"1704840171"
 			}
 			"development"
 			{
-				"buildid"		"12954857"
+				"buildid"		"13130172"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702501475"
+				"timeupdated"		"1704833472"
 			}
 			"partners"
 			{
