@@ -1,0 +1,650 @@
+"appinfo"
+{
+	"appid"		"964570"
+	"common"
+	{
+		"name"		"DCL - The Game"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"logo"		"0f52dd75a60cf1d9c94b3b6cf41fd7b962cfab18"
+		"logo_small"		"0f52dd75a60cf1d9c94b3b6cf41fd7b962cfab18_thumb"
+		"icon"		"b484411f8651409ecf239ac4125cd3d5757352cf"
+		"clienttga"		"65fb9e602610d886eacd67b44cce6f965b4f124f"
+		"clienticon"		"eb1b0cd53f513a4586e2cf4d77534eac10cc93df"
+		"clienticns"		"cc81b038282896975e525488491d63397ded68c3"
+		"linuxclienticon"		"0f412cdd4180678c49c0c0e171c98bfe3b91bef1"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1648684800"
+			"tested_build_id"		"8289407"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"DCL - The Game: FPV Drone Racing"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.98483080513419"
+				"height_pct"		"63.678461173118016"
+			}
+		}
+		"store_asset_mtime"		"1580288315"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Drone Champions AG"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Climax Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Drone Champions League"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"THQ Nordic"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"9"
+			"3"		"28"
+			"4"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"hindi"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"malay"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1582048474"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"964570"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"699"
+			"2"		"701"
+			"3"		"19"
+			"4"		"21"
+			"5"		"15045"
+			"6"		"3859"
+			"7"		"1734"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Drone Champions AG"
+		"publisher"		"Drone Champions League"
+		"homepage"		"https://game.dcl.aero/"
+	}
+	"config"
+	{
+		"installdir"		"DCL - The Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DCGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"DCGame.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launches the latest stable release of DCL - The Game"
+				}
+				"description"		"Launches the latest stable release of DCL - The Game"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,spanish,japanese"
+		"964571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3702538475286966975"
+					"size"		"21234456769"
+					"download"		"7492431184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.01.x"
+				{
+					"gid"		"DFF9555B3A2D3B4EAA87F655B2AAAA13"
+					"size"		"18CEDFDBB53D1137B30D794B1D46FFF7"
+					"download"		"65589F2D4916777E41AC474E1DD1A148"
+				}
+				"1.03.x"
+				{
+					"gid"		"89205F9B105103A8775BE1F4FF73C3CE"
+					"size"		"4D1BE0A638D7F38DA7D7DFBFA2A30BB4"
+					"download"		"8D90110C7D66BA3AD925D3B08CC18B9C"
+				}
+				"1.04.x"
+				{
+					"gid"		"027ACDDF6370D89E1A9BB369D5973D21"
+					"size"		"D1C513B8093F3BCEF85934A7C9A2A3FB"
+					"download"		"8358B2E5CB4442FF55D52AC5313FC36F"
+				}
+				"baseline"
+				{
+					"gid"		"B89CAD36ED439729D5419F2C2FBB4146"
+					"size"		"47CB077662F89DE5EAF0BD9C41314D95"
+					"download"		"6AE5BD7C5F12C33BDF851067E7A786F3"
+				}
+				"bidstack_test"
+				{
+					"gid"		"C7EBA9C31EF8AD399541601A887A3892"
+					"size"		"D9C3361B61625E373EFFDAE4FFC5D5EB"
+					"download"		"6815B05BB8BE0E77171D8423F735273C"
+				}
+				"dcl1_nightly"
+				{
+					"gid"		"CD03C89799E62471C0D3FC61D412DFA3"
+					"size"		"EF464F8E43DAC71EFDF84E73CE68B73C"
+					"download"		"F1B8E6097413EC64765B91F875814803"
+				}
+				"dclprorace2023"
+				{
+					"gid"		"91E214D236C688E599570BD47EC2A980"
+					"size"		"BFFD246B2D916049C658E858F00170AC"
+					"download"		"515CCBF6BB6A2010689377895ECFD4A0"
+				}
+				"dclprorace2023_training"
+				{
+					"gid"		"CA95D89A01D610AD448D3EDBE6206938"
+					"size"		"E67C81392C798E40A87716EAAE105462"
+					"download"		"CDC4B3CAA95864AA84FABF5D0C1511E2"
+				}
+				"internal_dclprorace"
+				{
+					"gid"		"02376A7BA6B4FB0AD0F6807CFC32D075"
+					"size"		"611A96046DD2D2309CE5DCB7592AB12E"
+					"download"		"633FF1BCBD5422B56E56CF6AC2514A21"
+				}
+				"internal_dclproraceadmin"
+				{
+					"gid"		"C6F3B79B2CB6AE0EB6CCAE1B8E45F485"
+					"size"		"6E9DA11B17EAB7A2821D9F8DA9FD1677"
+					"download"		"E9EF0109743FBDBEC6DC0C6E13E2D386"
+				}
+				"internal_dclproracetraining"
+				{
+					"gid"		"E79A4E0A0E7FEC8637E1FA949214D163"
+					"size"		"FD265B839A9F00F1E23DF3C233D9E285"
+					"download"		"D3F899AC08EE345CA558DCD1DFABEAFC"
+				}
+				"internal_nightlydev"
+				{
+					"gid"		"5833D767F8DD1062962A48057027448F"
+					"size"		"35B82974659460B4143959CF259CF680"
+					"download"		"EE5320498DD475213C668CBBF91C8724"
+				}
+				"internal_releasestaging"
+				{
+					"gid"		"689441010699B566627F1F95C37F3602"
+					"size"		"BD8D39E1F83F5FD69603459B10EFC46B"
+					"download"		"3E1DDA349D437C4A0B457B0DEDD3074D"
+				}
+				"internal_releasestagingdev"
+				{
+					"gid"		"7D08D0CE178428E0EFD4F72463B1BC56"
+					"size"		"6FCF74F1833CC3E912AFA7B57260E6BD"
+					"download"		"C7A754B440C2BFB4637ECF2C5EDE586D"
+				}
+				"internal_tournamentstaging"
+				{
+					"gid"		"4E7DC9C0DE179158F85F2C004CA1A5A3"
+					"size"		"DAE529D6AD046955026D7E15ACF42890"
+					"download"		"E7ED5896F2849A9F041A00E5346246B0"
+				}
+				"prerelease"
+				{
+					"gid"		"4E5FF99DFFA1EC547118284364BC9336"
+					"size"		"C4C6CDD0A7767B1C89F971ABE40A89A5"
+					"download"		"574DF52DBB102AD1A7D5689B7051C4EE"
+				}
+				"prereleaseqa"
+				{
+					"gid"		"82616A0E3F2D0F1ED0A64CFB8B9A08B8"
+					"size"		"B4F595734DF0211B5D50AD3455726093"
+					"download"		"14C10FC1579066648FABBD3D346849B5"
+				}
+				"support"
+				{
+					"gid"		"3542CCB080426FBA2B1E689744C4E392"
+					"size"		"1FFF7163BBE997396A85311F30ABEB44"
+					"download"		"AD4E202BB97613D94E1BDA7CE7FD01E2"
+				}
+			}
+		}
+		"964572"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8744789001376612099"
+					"size"		"25651918480"
+					"download"		"8276244960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.01.x"
+				{
+					"gid"		"C6FDF016E391605CCD32AF006A21DA81"
+					"size"		"AA085C8432A45DC54D322782F095EB66"
+					"download"		"CB9630EDCA8AC89A7CC3E551DBDF3517"
+				}
+				"1.03.x"
+				{
+					"gid"		"FCF1F72F76131E77E2622079F9A8348E"
+					"size"		"A72D84CEF4EADA0B5A13548D55517820"
+					"download"		"E13A3BAA335EFE462302CA03B4CB13EB"
+				}
+				"1.04.x"
+				{
+					"gid"		"6A20A065C0F31C0BF81A378C8A29757C"
+					"size"		"6CF75BEB45EDD5375038E6AA9335BB07"
+					"download"		"FA4BBDFA07ADDB968D3229BD6D499498"
+				}
+				"baseline"
+				{
+					"gid"		"EAC76B9E1A72A1C4F1DFAFC002BAD933"
+					"size"		"5EEBC480676BA543F06F007B11F55BF3"
+					"download"		"9691F0FD64856E90AB36611AA2F1B97E"
+				}
+				"bidstack_test"
+				{
+					"gid"		"F4C37DC42C0019CAFEB508F376B7BF1B"
+					"size"		"982C2ACEBE53E7A9BCD50AA93FAB9C8A"
+					"download"		"0FF6BF9051C12B45A37459CCC67C19CB"
+				}
+				"dcl1_nightly"
+				{
+					"gid"		"B4C6BD7448FDAC5763FC0F715393AEDA"
+					"size"		"DB9A5886D30EB847BF3A1F691D7F2572"
+					"download"		"80B14E06E4E00F51A75F4A0E2CF0D8DA"
+				}
+				"dclprorace2023"
+				{
+					"gid"		"721740480A6188B4A79DDF6E60DD988B"
+					"size"		"A9E93D201BFCD8F0F54DF1987D2D191D"
+					"download"		"171360EBB9379C0269853888FA52C4F7"
+				}
+				"dclprorace2023_training"
+				{
+					"gid"		"A1C540BA630FCB8E5A7C27CAD5A33434"
+					"size"		"4166A13AA11FB1EA6ADA5C1F46B2C69F"
+					"download"		"F96272F48A49F0E7F89251D682A83449"
+				}
+				"internal_dclprorace"
+				{
+					"gid"		"A060F3997E78BE6C37CA4CCD8735A64F"
+					"size"		"DAF8FE8BCE4373B0B86A5653DDC57701"
+					"download"		"7E7705C27658FF83F2884F51751D3C84"
+				}
+				"internal_dclproraceadmin"
+				{
+					"gid"		"30EAC4D8A669E44EF3983AFA16B61B4F"
+					"size"		"9A3C805358A99BF1E53B07D3FC8B8502"
+					"download"		"B0B710CA93FFFEF336CCC21C96370337"
+				}
+				"internal_dclproracetraining"
+				{
+					"gid"		"E2B1CFC334A45E03B22DA995419CCE74"
+					"size"		"9830C27C0989E04A90C18D575A04CD77"
+					"download"		"4A2F95F08865F5DCFEBD4C565C062C84"
+				}
+				"internal_nightlydev"
+				{
+					"gid"		"6E71A980CD1321502D631A549F243EB5"
+					"size"		"4130648B0DA8262A4691D626EF8D8576"
+					"download"		"801A561131BAA824AA69255F0C4C94F7"
+				}
+				"internal_releasestaging"
+				{
+					"gid"		"DCDE38C4CD1D0DEA9FDF719915B370B2"
+					"size"		"88CB85479221E1F8199C7E9A8B62A539"
+					"download"		"80522716DB91FFB46B64FEA443D658AB"
+				}
+				"internal_releasestagingdev"
+				{
+					"gid"		"ADB9BE4E5A1361469FEFBB110850DFBA"
+					"size"		"1A60031D213A6E06F66082C31648B7A2"
+					"download"		"AA19D63DECE6D63BC86205251E0F4A10"
+				}
+				"internal_tournamentstaging"
+				{
+					"gid"		"D25DA8B267D349CFA892F13047D9586B"
+					"size"		"ED93F3AFDC4C92C819027EE63E33D77C"
+					"download"		"17630A6D5DEB09F697ED6B1B8DA7C178"
+				}
+				"prerelease"
+				{
+					"gid"		"5DD9D5EE6AFDC1E7644A1D93950DC786"
+					"size"		"706528586E1C347D189AD615194AD510"
+					"download"		"F523249450E6A4373EC206F385D272BC"
+				}
+				"prereleaseqa"
+				{
+					"gid"		"209FFDB5377A273C74BE5AA223A6DEA3"
+					"size"		"B069512B8EE58BDDA6DFE040B7E038D2"
+					"download"		"EB248370A34F8B37AE49171A7D2FB7E6"
+				}
+				"support"
+				{
+					"gid"		"BEC42414D2D6C6491181C7CAE4A0BB42"
+					"size"		"D9FC71E7F9F29874E7DECD3F5BC08C83"
+					"download"		"1F73E421D698462DED53F3C5662F339F"
+				}
+			}
+		}
+		"workshopdepot"		"964570"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10839913"
+				"timeupdated"		"1679927609"
+			}
+			"1.01.x"
+			{
+				"buildid"		"4673674"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591601016"
+			}
+			"1.03.x"
+			{
+				"buildid"		"6132931"
+				"pwdrequired"		"1"
+				"timeupdated"		"1614249241"
+			}
+			"1.04.x"
+			{
+				"buildid"		"6518046"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646225480"
+			}
+			"baseline"
+			{
+				"buildid"		"4466222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578572209"
+			}
+			"bidstack_test"
+			{
+				"buildid"		"9853313"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667398749"
+			}
+			"dcl1_nightly"
+			{
+				"buildid"		"7866325"
+				"pwdrequired"		"1"
+				"timeupdated"		"1642168459"
+			}
+			"dclprorace2023"
+			{
+				"buildid"		"12991658"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703068402"
+			}
+			"dclprorace2023_training"
+			{
+				"buildid"		"12495438"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698392924"
+			}
+			"internal_dclprorace"
+			{
+				"buildid"		"12997067"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702959795"
+			}
+			"internal_dclproraceadmin"
+			{
+				"buildid"		"12991471"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703068283"
+			}
+			"internal_dclproracetraining"
+			{
+				"buildid"		"12980010"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702732777"
+			}
+			"internal_nightlydev"
+			{
+				"buildid"		"12997222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702961852"
+			}
+			"internal_releasestaging"
+			{
+				"buildid"		"11191617"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683655392"
+			}
+			"internal_releasestagingdev"
+			{
+				"buildid"		"11242280"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684230216"
+			}
+			"internal_tournamentstaging"
+			{
+				"buildid"		"8268469"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645715359"
+			}
+			"prerelease"
+			{
+				"buildid"		"4673674"
+				"pwdrequired"		"1"
+				"timeupdated"		"1581947248"
+			}
+			"prereleaseqa"
+			{
+				"buildid"		"5126151"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591600857"
+			}
+			"support"
+			{
+				"buildid"		"10865820"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681372478"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+	}
+}
