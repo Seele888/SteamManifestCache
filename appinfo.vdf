@@ -218,8 +218,8 @@
 			"13"		"1759"
 			"14"		"4252"
 			"15"		"4305"
-			"16"		"4182"
-			"17"		"3839"
+			"16"		"3839"
+			"17"		"4182"
 			"18"		"3859"
 			"19"		"1716"
 		}
@@ -231,6 +231,8 @@
 		"developer"		"RyseUp Studios"
 		"publisher"		"RyseUp Studios"
 		"homepage"		"http://www.roboquest.com/"
+		"listofdlc"		"2729110"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -274,15 +276,14 @@
 			"config"
 			{
 				"oslist"		"windows"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"2094611030962397695"
-					"size"		"4691051831"
-					"download"		"4427355232"
+					"gid"		"2137312749127659823"
+					"size"		"4716754722"
+					"download"		"4452645456"
 				}
 			}
 			"encryptedmanifests"
@@ -379,15 +380,46 @@
 			"config"
 			{
 				"oslist"		"windows"
-				"language"		""
+			}
+		}
+		"2729110"
+		{
+			"dlcappid"		"2729110"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3922345365598588541"
+					"size"		"172477001"
+					"download"		"153358928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"86D09A3E5BDD4C95EF547E59D25A23D8"
+					"size"		"599AD9E2382A1D5117805D692AA4AE2B"
+					"download"		"378DEE0FC63264E37277DE9B24006D34"
+				}
+				"staging"
+				{
+					"gid"		"5392B36C4EFC045769D60A1108295175"
+					"size"		"37056D3DBF1313A5BA5EF6E3C8BD53B6"
+					"download"		"CF1FE3A27CC2418D33BEFAE411F9C5E2"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12731373"
-				"timeupdated"		"1700642968"
+				"buildid"		"13127014"
+				"timeupdated"		"1704809946"
 			}
 			"dev_crossnetwork"
 			{
@@ -397,9 +429,9 @@
 			}
 			"developer"
 			{
-				"buildid"		"12951897"
+				"buildid"		"13028342"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702479496"
+				"timeupdated"		"1703238242"
 			}
 			"eos_dev"
 			{
@@ -469,9 +501,9 @@
 			}
 			"staging"
 			{
-				"buildid"		"12939113"
+				"buildid"		"13127014"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702387829"
+				"timeupdated"		"1704808366"
 			}
 		}
 	}
